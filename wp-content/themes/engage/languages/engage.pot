@@ -1,0 +1,7126 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Engage\n"
+"POT-Creation-Date: 2016-02-08 16:45+0530\n"
+"PO-Revision-Date: 2016-02-08 16:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:30
+msgid "BACK TO HOME"
+msgstr ""
+
+#: archive.php:44 author.php:44 category.php:43 index.php:44 search.php:44
+#: tag.php:43
+msgid "<i class=\"ion-chevron-left\"></i> Prev"
+msgstr ""
+
+#: archive.php:44 author.php:44 category.php:43 index.php:44 search.php:44
+#: tag.php:43
+msgid " Next <i class=\"ion-chevron-right\"></i>"
+msgstr ""
+
+#: comments.php:9
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:28
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: framework/blog/blog-functions.php:28
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/blog/blog-functions.php:41
+msgid "REPLY"
+msgstr ""
+
+#: framework/blog/blog-functions.php:74
+msgid "Pages:"
+msgstr ""
+
+#: framework/blog/blog-functions.php:77
+msgid "TAGS: "
+msgstr ""
+
+#: framework/blog/blog-functions.php:87
+#: framework/vc-addon/shortcodes/blog_grid.php:136
+msgid "READ MORE"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:20
+msgid "Post Audio Settings"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:28
+msgid "Audio URL"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:30
+msgid "Enter your audio url here"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:40
+msgid "Post Video Settings"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:48
+#: framework/vc-addon/shortcodes/video_modal.php:123
+msgid "Video URL"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:50
+msgid "Enter Your Video URL Here"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:61
+msgid "Post Gallery Settings"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:69
+msgid "Gallery Image Upload"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:79
+msgid "Post Quote Author"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:87
+msgid "Quote Author"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:89
+msgid "Enter Quote Author Name Here"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:99 framework/options/typography.php:1161
+msgid "Post Link"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:107 framework/vc-addon/functions.php:543
+msgid "Link"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:109
+msgid "Enter Post link url here."
+msgstr ""
+
+#: framework/functions/meta-boxes.php:122
+msgid "Portfolio Thumbnail"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:129
+msgid "Thumbnail Title"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:131
+msgid "Title will appear in Thumbnail bottom"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:136
+msgid "Thumbnail Sub Title"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:138
+msgid "Sub Title will appear in Thumbnail bottom"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:147
+msgid "Portfolio Post Settings"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:154
+msgid "Portfolio Type"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:158 framework/vc-addon/add-params.php:106
+#: framework/vc-addon/add-params.php:335 framework/vc-addon/functions.php:259
+#: framework/vc-addon/shortcodes/featured_img_box.php:152
+#: framework/vc-addon/shortcodes/video_modal.php:209
+msgid "Image"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:159
+msgid "Image Gallery"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:160
+msgid "Video"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:161
+msgid "Audio"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:166
+msgid "Open In"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:170
+msgid "LightBox"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:171
+msgid "Ajax Page"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:176
+msgid "Image Upload"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:183
+msgid "Video Url"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:185
+msgid "Enter your video url here"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:191
+msgid "Audio Url"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:193
+msgid "Enter your audio url here."
+msgstr ""
+
+#: framework/functions/meta-boxes.php:199
+msgid "Gallery Images Upload"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:210
+msgid "Portfolio Details"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:217
+msgid "Project Date"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:221
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:222
+msgid "yy-mm-dd"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:229
+#: framework/portfolio/portfolio-functions.php:90 single-portfolio.php:81
+msgid "Client"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:237
+msgid "To add new fields in Project Details"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:243 framework/options/typography.php:160
+#: framework/options/typography.php:233 framework/options/typography.php:264
+#: framework/options/typography.php:315 framework/options/typography.php:366
+#: framework/options/typography.php:552 framework/options/typography.php:782
+#: framework/options/typography.php:975
+#: framework/vc-addon/shortcodes/animated_icon_box.php:157
+#: framework/vc-addon/shortcodes/featured_img_box.php:139
+#: framework/vc-addon/shortcodes/icon_box.php:242
+#: framework/vc-addon/shortcodes/video_modal.php:130
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:81
+msgid "Title"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:244
+msgid "Enter the title."
+msgstr ""
+
+#: framework/functions/meta-boxes.php:250 framework/vc-addon/add-params.php:474
+#: framework/vc-addon/shortcodes/team_member.php:317
+msgid "Value"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:251
+msgid "Enter the Value."
+msgstr ""
+
+#: framework/functions/meta-boxes.php:258 framework/options/typography.php:1048
+msgid "Button Text"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:260
+msgid "Example: LAUNCH"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:265
+msgid "Button Link URL"
+msgstr ""
+
+#: framework/functions/meta-boxes.php:267
+msgid "Example: http://www.google.com"
+msgstr ""
+
+#: framework/options/blog.php:5
+msgid "Blog"
+msgstr ""
+
+#: framework/options/blog.php:6
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/options/blog.php:11
+msgid "Blog Home Settings"
+msgstr ""
+
+#: framework/options/blog.php:17
+msgid "Blog Hero Image"
+msgstr ""
+
+#: framework/options/blog.php:18
+msgid ""
+"Upload the hero image on blog home page, image size must be 1600x600 or "
+"above."
+msgstr ""
+
+#: framework/options/blog.php:23
+msgid "Hero Image Title"
+msgstr ""
+
+#: framework/options/blog.php:24
+msgid "It will appear on Hero image."
+msgstr ""
+
+#: framework/options/blog.php:30
+msgid "Hero Image Sub Title"
+msgstr ""
+
+#: framework/options/blog.php:31
+msgid "It will apear on Hero image."
+msgstr ""
+
+#: framework/options/blog.php:42
+msgid "Blog Posts Settings"
+msgstr ""
+
+#: framework/options/blog.php:48
+msgid "Post Tags"
+msgstr ""
+
+#: framework/options/blog.php:49
+msgid "You can show or hide the tags at the end of the each post from here."
+msgstr ""
+
+#: framework/options/blog.php:55
+msgid "Social Icons on Post"
+msgstr ""
+
+#: framework/options/blog.php:56
+msgid "You can show or hide the social sharing icons on your blog posts."
+msgstr ""
+
+#: framework/options/footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: framework/options/footer.php:8
+msgid "Footer Options"
+msgstr ""
+
+#: framework/options/footer.php:14
+msgid "Footer Style"
+msgstr ""
+
+#: framework/options/footer.php:16
+msgid "Dark Footer"
+msgstr ""
+
+#: framework/options/footer.php:17
+msgid "Light Footer"
+msgstr ""
+
+#: framework/options/footer.php:24
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/options/footer.php:25
+msgid "Please enter the copyright text."
+msgstr ""
+
+#: framework/options/footer.php:31
+msgid "Footer Social Icon"
+msgstr ""
+
+#: framework/options/footer.php:32
+msgid "Check this option if you want to show social icons on footer."
+msgstr ""
+
+#: framework/options/footer.php:38
+msgid "Footer Social icon list"
+msgstr ""
+
+#: framework/options/footer.php:39
+msgid ""
+"Drag the social icons from \"Available Icon\" section to \"Footer Icon\" "
+"section.Social icon url need to be set in Social icon Links Theme option "
+"panel."
+msgstr ""
+
+#: framework/options/general.php:5
+msgid "Generals"
+msgstr ""
+
+#: framework/options/general.php:6
+msgid "Generals Settings"
+msgstr ""
+
+#: framework/options/general.php:11
+msgid "Theme Color"
+msgstr ""
+
+#: framework/options/general.php:12
+msgid "Choose the theme color from here."
+msgstr ""
+
+#: framework/options/general.php:19 framework/vc-addon/add-params.php:551
+#: framework/vc-addon/add-params.php:560 framework/vc-addon/add-params.php:569
+#: framework/vc-addon/add-params.php:653 framework/vc-addon/add-params.php:663
+#: framework/vc-addon/add-params.php:672
+#: framework/vc-addon/shortcodes/address_block.php:303
+#: framework/vc-addon/shortcodes/address_block.php:311
+#: framework/vc-addon/shortcodes/address_block.php:319
+#: framework/vc-addon/shortcodes/blog_grid.php:296
+#: framework/vc-addon/shortcodes/blog_grid.php:304
+#: framework/vc-addon/shortcodes/blog_grid.php:312
+#: framework/vc-addon/shortcodes/button.php:267
+#: framework/vc-addon/shortcodes/button.php:275
+#: framework/vc-addon/shortcodes/button.php:283
+#: framework/vc-addon/shortcodes/call_to_action.php:395
+#: framework/vc-addon/shortcodes/call_to_action.php:403
+#: framework/vc-addon/shortcodes/call_to_action.php:411
+#: framework/vc-addon/shortcodes/client_logo_slider.php:217
+#: framework/vc-addon/shortcodes/client_logo_slider.php:225
+#: framework/vc-addon/shortcodes/client_logo_slider.php:233
+#: framework/vc-addon/shortcodes/counter.php:322
+#: framework/vc-addon/shortcodes/counter.php:330
+#: framework/vc-addon/shortcodes/counter.php:338
+#: framework/vc-addon/shortcodes/featured_img_box.php:264
+#: framework/vc-addon/shortcodes/featured_img_box.php:272
+#: framework/vc-addon/shortcodes/featured_img_box.php:280
+#: framework/vc-addon/shortcodes/icon_box.php:399
+#: framework/vc-addon/shortcodes/icon_box.php:407
+#: framework/vc-addon/shortcodes/icon_box.php:415
+#: framework/vc-addon/shortcodes/portfolio_grid.php:378
+#: framework/vc-addon/shortcodes/pricing_box.php:249
+#: framework/vc-addon/shortcodes/pricing_box.php:257
+#: framework/vc-addon/shortcodes/pricing_box.php:265
+#: framework/vc-addon/shortcodes/special_heading.php:236
+#: framework/vc-addon/shortcodes/special_heading.php:244
+#: framework/vc-addon/shortcodes/special_heading.php:252
+#: framework/vc-addon/shortcodes/team_member.php:431
+#: framework/vc-addon/shortcodes/team_member.php:439
+#: framework/vc-addon/shortcodes/team_member.php:447
+#: framework/vc-addon/shortcodes/testimonial_slider.php:363
+#: framework/vc-addon/shortcodes/testimonial_slider.php:371
+#: framework/vc-addon/shortcodes/testimonial_slider.php:379
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:354
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:362
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:370
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:196
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:204
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:212
+msgid "Animation"
+msgstr ""
+
+#: framework/options/general.php:20
+msgid "You can enbale or disable animation."
+msgstr ""
+
+#: framework/options/general.php:26
+msgid "Minify Javascript"
+msgstr ""
+
+#: framework/options/general.php:27
+msgid "You can minify the javascript in a single minified file."
+msgstr ""
+
+#: framework/options/general.php:33
+msgid "Retina Ready"
+msgstr ""
+
+#: framework/options/general.php:34
+msgid "You can enable or disable the Retina support for your site from here."
+msgstr ""
+
+#: framework/options/general.php:40
+msgid "Favicon"
+msgstr ""
+
+#: framework/options/general.php:47
+msgid "Upload Favicon"
+msgstr ""
+
+#: framework/options/general.php:48
+msgid ""
+"It displayed in the address bar of a browser accessing the site or next to "
+"the site name in a users list of bookmarks."
+msgstr ""
+
+#: framework/options/general.php:49
+msgid ""
+"Image size must be 16x16 pixels or 32x32 pixels and Format of the image must "
+"be one of PNG(W3C standard),GIF or ICO."
+msgstr ""
+
+#: framework/options/general.php:60
+msgid "Preloader Settings"
+msgstr ""
+
+#: framework/options/general.php:66
+msgid "Preloader"
+msgstr ""
+
+#: framework/options/general.php:67
+msgid "You can simply enable or disable the preloader on page load from here."
+msgstr ""
+
+#: framework/options/general.php:73
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/options/general.php:79
+msgid "CSS Code"
+msgstr ""
+
+#: framework/options/general.php:80
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: framework/options/header.php:5
+msgid "Header"
+msgstr ""
+
+#: framework/options/header.php:6
+msgid "Header Options"
+msgstr ""
+
+#: framework/options/header.php:11
+msgid "Top Menu, Sidebar Icon menu and Push Menu"
+msgstr ""
+
+#: framework/options/header.php:17
+msgid "Menu Style"
+msgstr ""
+
+#: framework/options/header.php:18
+msgid "You can choose the menu style as per your requirement from here."
+msgstr ""
+
+#: framework/options/header.php:19
+msgid "Please select your header style."
+msgstr ""
+
+#: framework/options/header.php:30
+msgid "Top Menu Transparency"
+msgstr ""
+
+#: framework/options/header.php:31
+msgid "Enable or Disable the menu transparency from here."
+msgstr ""
+
+#: framework/options/header.php:32
+msgid "This option is only applicable for top menu."
+msgstr ""
+
+#: framework/options/header.php:39
+msgid "Menu Text Color"
+msgstr ""
+
+#: framework/options/header.php:40
+msgid "Select the color."
+msgstr ""
+
+#: framework/options/header.php:50
+msgid "Push Menu Social Icons"
+msgstr ""
+
+#: framework/options/header.php:51
+msgid "Check this option if you want to add social icons inside the header."
+msgstr ""
+
+#: framework/options/header.php:52
+msgid "Social icon is only applicable for push menu."
+msgstr ""
+
+#: framework/options/header.php:63
+msgid "Logo"
+msgstr ""
+
+#: framework/options/header.php:69
+msgid "Upload Logo 1"
+msgstr ""
+
+#: framework/options/header.php:71
+msgid "It will appear on all Menus."
+msgstr ""
+
+#: framework/options/header.php:77
+msgid "Upload Logo 2"
+msgstr ""
+
+#: framework/options/header.php:79 framework/options/header.php:80
+msgid ""
+"It will appear on Transparent Top Menu only, When the transparency has been "
+"removed after scroll down."
+msgstr ""
+
+#: framework/options/options.php:80 framework/options/options.php:81
+msgid "Theme Options"
+msgstr ""
+
+#: framework/options/page404.php:5
+msgid "Page 404"
+msgstr ""
+
+#: framework/options/page404.php:6
+msgid "Page 404 Settings"
+msgstr ""
+
+#: framework/options/page404.php:11
+msgid "404 Image"
+msgstr ""
+
+#: framework/options/page404.php:12
+msgid ""
+"Upload your 404 background image, Size of the image must be 1600x900 or "
+"above."
+msgstr ""
+
+#: framework/options/page404.php:17
+#: framework/vc-addon/shortcodes/featured_img_box.php:159
+msgid "Background Color"
+msgstr ""
+
+#: framework/options/page404.php:18
+msgid "Please select a color."
+msgstr ""
+
+#: framework/options/page404.php:25
+msgid "Page Title"
+msgstr ""
+
+#: framework/options/page404.php:26
+msgid "Title will appear on the page."
+msgstr ""
+
+#: framework/options/page404.php:32
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework/options/page404.php:33
+msgid "Subtitle will appear under the title."
+msgstr ""
+
+#: framework/options/social.php:5
+#: framework/vc-addon/shortcodes/team_member.php:358
+#: framework/vc-addon/shortcodes/team_member.php:366
+#: framework/vc-addon/shortcodes/team_member.php:374
+#: framework/vc-addon/shortcodes/team_member.php:382
+#: framework/vc-addon/shortcodes/team_member.php:390
+msgid "Social Icons"
+msgstr ""
+
+#: framework/options/social.php:6
+msgid "Social Icons Settings"
+msgstr ""
+
+#: framework/options/social.php:11
+msgid ""
+"Enter in your social media URL here and then select which ones you would "
+"like to display in your footer options. <br><strong>PLEASE INCLUDE \"http://"
+"\" or \"https://\" IN URL</strong>"
+msgstr ""
+
+#: framework/options/social.php:22
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/options/social.php:23
+msgid "Please enter your Facebook URL."
+msgstr ""
+
+#: framework/options/social.php:29
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/options/social.php:30
+msgid "Please enter your Twitter URL."
+msgstr ""
+
+#: framework/options/social.php:36
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/options/social.php:37
+msgid "Please enter your Google+ URL."
+msgstr ""
+
+#: framework/options/social.php:43
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/options/social.php:44
+msgid "Please enter your Linkedin URL."
+msgstr ""
+
+#: framework/options/social.php:50
+msgid "Tumblr URL"
+msgstr ""
+
+#: framework/options/social.php:51
+msgid "Please enter your Tumblr URL."
+msgstr ""
+
+#: framework/options/social.php:57
+msgid "Dribbble URL"
+msgstr ""
+
+#: framework/options/social.php:58
+msgid "Please enter your Dribbble URL."
+msgstr ""
+
+#: framework/options/social.php:64
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/options/social.php:65
+msgid "Please enter your Pinterest URL."
+msgstr ""
+
+#: framework/options/social.php:71
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/options/social.php:72
+msgid "Please enter your Youtube URL."
+msgstr ""
+
+#: framework/options/social.php:78
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/options/social.php:79
+msgid "Please enter your Vimeo URL."
+msgstr ""
+
+#: framework/options/social.php:85
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/options/social.php:86
+msgid "Please enter your Flickr URL."
+msgstr ""
+
+#: framework/options/social.php:92
+msgid "Github URL"
+msgstr ""
+
+#: framework/options/social.php:93
+msgid "Please enter your Github URL."
+msgstr ""
+
+#: framework/options/social.php:99
+msgid "StackOverflow URL"
+msgstr ""
+
+#: framework/options/social.php:100
+msgid "Please enter your StackOverflow URL."
+msgstr ""
+
+#: framework/options/social.php:106
+msgid "StackExchange URL"
+msgstr ""
+
+#: framework/options/social.php:107
+msgid "Please enter your StackExchange URL."
+msgstr ""
+
+#: framework/options/twitter.php:5 framework/options/twitter.php:6
+msgid "Twitter Settings"
+msgstr ""
+
+#: framework/options/twitter.php:16
+msgid "Consumer Key"
+msgstr ""
+
+#: framework/options/twitter.php:17
+msgid "Please enter your Twitter consumer key."
+msgstr ""
+
+#: framework/options/twitter.php:23
+msgid "Consumer Secret Key"
+msgstr ""
+
+#: framework/options/twitter.php:24
+msgid "Please enter your Twitter Consumer Secret Key."
+msgstr ""
+
+#: framework/options/twitter.php:30
+msgid "Access Token"
+msgstr ""
+
+#: framework/options/twitter.php:31
+msgid "Please enter your Twitter Access Token."
+msgstr ""
+
+#: framework/options/twitter.php:37
+msgid "Access Token Secret"
+msgstr ""
+
+#: framework/options/twitter.php:38
+msgid "Please enter your Twitter Access Token Secret."
+msgstr ""
+
+#: framework/options/typography.php:5
+msgid "Typography"
+msgstr ""
+
+#: framework/options/typography.php:6
+msgid "Typography Settings"
+msgstr ""
+
+#: framework/options/typography.php:12
+msgid "Main Typography"
+msgstr ""
+
+#: framework/options/typography.php:18
+msgid "Body"
+msgstr ""
+
+#: framework/options/typography.php:39
+msgid "Paragraph font"
+msgstr ""
+
+#: framework/options/typography.php:66
+msgid "Menu Typography"
+msgstr ""
+
+#: framework/options/typography.php:72
+msgid "Menu Link"
+msgstr ""
+
+#: framework/options/typography.php:97
+msgid "Footer Typography"
+msgstr ""
+
+#: framework/options/typography.php:103
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:108
+msgid "Footer Text"
+msgstr ""
+
+#: framework/options/typography.php:132
+#: framework/vc-addon/shortcodes/special_heading.php:90
+#: framework/vc-addon/shortcodes/special_heading.php:91
+msgid "Special Heading"
+msgstr ""
+
+#: framework/options/typography.php:133
+msgid "Special Heading Typography"
+msgstr ""
+
+#: framework/options/typography.php:139 framework/options/typography.php:211
+#: framework/vc-addon/shortcodes/counter.php:146
+msgid "Upper Title"
+msgstr ""
+
+#: framework/options/typography.php:183
+#: framework/vc-addon/shortcodes/counter.php:113
+msgid "Animated Counter"
+msgstr ""
+
+#: framework/options/typography.php:184
+msgid "Animated Counter Typography"
+msgstr ""
+
+#: framework/options/typography.php:190
+msgid "Counter Number"
+msgstr ""
+
+#: framework/options/typography.php:212
+msgid "Applied for Box Type Animated Counter"
+msgstr ""
+
+#: framework/options/typography.php:257
+#: framework/vc-addon/shortcodes/animated_icon_box.php:149
+msgid "Animated Icon Box"
+msgstr ""
+
+#: framework/options/typography.php:258
+msgid "Animated Icon Box Typography"
+msgstr ""
+
+#: framework/options/typography.php:285 framework/options/typography.php:336
+#: framework/options/typography.php:387 framework/options/typography.php:803
+#: framework/options/typography.php:875
+#: framework/vc-addon/shortcodes/animated_icon_box.php:164
+#: framework/vc-addon/shortcodes/featured_img_box.php:145
+#: framework/vc-addon/shortcodes/icon_box.php:282
+#: framework/vc-addon/shortcodes/team_member.php:269
+msgid "Description"
+msgstr ""
+
+#: framework/options/typography.php:308
+#: framework/vc-addon/shortcodes/icon_box.php:205
+msgid "Icon Box"
+msgstr ""
+
+#: framework/options/typography.php:309
+msgid "Icon Box Typography"
+msgstr ""
+
+#: framework/options/typography.php:359
+#: framework/vc-addon/shortcodes/featured_img_box.php:118
+msgid "Featured Image Box"
+msgstr ""
+
+#: framework/options/typography.php:360
+msgid "Featured Image Box Typography"
+msgstr ""
+
+#: framework/options/typography.php:410
+msgid "Team"
+msgstr ""
+
+#: framework/options/typography.php:411
+msgid "Team Typography"
+msgstr ""
+
+#: framework/options/typography.php:417 framework/options/typography.php:833
+#: framework/vc-addon/shortcodes/call_to_action.php:163
+#: framework/vc-addon/shortcodes/special_heading.php:156
+msgid "Heading"
+msgstr ""
+
+#: framework/options/typography.php:438 framework/options/typography.php:854
+#: framework/vc-addon/shortcodes/call_to_action.php:169
+msgid "Sub Heading"
+msgstr ""
+
+#: framework/options/typography.php:459
+msgid "Team Popup Heading"
+msgstr ""
+
+#: framework/options/typography.php:480
+msgid "Team Popup Sub Heading"
+msgstr ""
+
+#: framework/options/typography.php:501
+msgid "Skill Title"
+msgstr ""
+
+#: framework/options/typography.php:522
+msgid "Skill Bar text"
+msgstr ""
+
+#: framework/options/typography.php:545
+msgid "Testimonial Slider"
+msgstr ""
+
+#: framework/options/typography.php:546
+msgid "Testimonial Slider Typography"
+msgstr ""
+
+#: framework/options/typography.php:553
+msgid "Applicable for testimonial image slider"
+msgstr ""
+
+#: framework/options/typography.php:574
+msgid "Testimonial text"
+msgstr ""
+
+#: framework/options/typography.php:595
+msgid "Testimonial Author Name"
+msgstr ""
+
+#: framework/options/typography.php:616
+msgid "Testimonial Author Position"
+msgstr ""
+
+#: framework/options/typography.php:640
+msgid "Pricing"
+msgstr ""
+
+#: framework/options/typography.php:641
+msgid "Pricing Typography"
+msgstr ""
+
+#: framework/options/typography.php:647
+#: framework/vc-addon/shortcodes/pricing_box.php:114
+msgid "Pricing Title"
+msgstr ""
+
+#: framework/options/typography.php:668
+msgid "Pricing Popular"
+msgstr ""
+
+#: framework/options/typography.php:689
+msgid "Pricing Currency"
+msgstr ""
+
+#: framework/options/typography.php:710
+msgid "Pricing Price"
+msgstr ""
+
+#: framework/options/typography.php:731
+msgid "Pricing Tenure"
+msgstr ""
+
+#: framework/options/typography.php:752
+msgid "Pricing Features"
+msgstr ""
+
+#: framework/options/typography.php:775
+#: framework/vc-addon/shortcodes/address_block.php:150
+msgid "Address Block"
+msgstr ""
+
+#: framework/options/typography.php:776
+msgid "Address Block Typography"
+msgstr ""
+
+#: framework/options/typography.php:826
+msgid "Mailchimp"
+msgstr ""
+
+#: framework/options/typography.php:827
+msgid "Mailchimp Typography"
+msgstr ""
+
+#: framework/options/typography.php:897
+msgid "Twitter"
+msgstr ""
+
+#: framework/options/typography.php:898
+msgid "Twitter Typography"
+msgstr ""
+
+#: framework/options/typography.php:904
+msgid "Tweet Heading"
+msgstr ""
+
+#: framework/options/typography.php:925
+msgid "Tweet Text"
+msgstr ""
+
+#: framework/options/typography.php:946
+msgid "Tweet Date"
+msgstr ""
+
+#: framework/options/typography.php:968
+msgid "Call To Action"
+msgstr ""
+
+#: framework/options/typography.php:969
+msgid "Call To Action Typography"
+msgstr ""
+
+#: framework/options/typography.php:996
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:88
+msgid "Sub Title"
+msgstr ""
+
+#: framework/options/typography.php:1017
+msgid "List Item"
+msgstr ""
+
+#: framework/options/typography.php:1041
+#: framework/vc-addon/shortcodes/button.php:97
+msgid "Button"
+msgstr ""
+
+#: framework/options/typography.php:1042
+msgid "Button Typography"
+msgstr ""
+
+#: framework/options/typography.php:1069
+msgid "Contact Button Text"
+msgstr ""
+
+#: framework/options/typography.php:1091
+#: framework/vc-addon/shortcodes/blog_grid.php:184
+msgid "Blog Grid"
+msgstr ""
+
+#: framework/options/typography.php:1092
+msgid "Blog Grid Typography"
+msgstr ""
+
+#: framework/options/typography.php:1098
+msgid "Post Date"
+msgstr ""
+
+#: framework/options/typography.php:1119
+msgid "Post Title"
+msgstr ""
+
+#: framework/options/typography.php:1140
+msgid "Post Text"
+msgstr ""
+
+#: framework/options/typography.php:1183
+#: framework/portfolio/portfolio-register.php:29
+msgid "Portfolio"
+msgstr ""
+
+#: framework/options/typography.php:1184
+msgid "Portfolio Typography"
+msgstr ""
+
+#: framework/options/typography.php:1190
+msgid "Portfolio Filter"
+msgstr ""
+
+#: framework/options/typography.php:1211
+msgid "Portfolio Caption Title"
+msgstr ""
+
+#: framework/options/typography.php:1232
+msgid "Portfolio Caption Sub Title"
+msgstr ""
+
+#: framework/options/typography.php:1253
+msgid "Lightbox Title & Counter"
+msgstr ""
+
+#: framework/options/typography.php:1274
+msgid "Single Page Counter"
+msgstr ""
+
+#: framework/options/typography.php:1295
+msgid "Single Page Title"
+msgstr ""
+
+#: framework/options/typography.php:1316
+msgid "Single Sub Title"
+msgstr ""
+
+#: framework/options/typography.php:1337
+msgid "Single Page Content Title"
+msgstr ""
+
+#: framework/options/typography.php:1358
+msgid "Single Page Related Projects Title"
+msgstr ""
+
+#: framework/options/typography.php:1379
+msgid "Single Page List Item"
+msgstr ""
+
+#: framework/options/typography.php:1400
+msgid "Single Page Description "
+msgstr ""
+
+#: framework/portfolio/portfolio-functions.php:83 single-portfolio.php:74
+msgid "Project Description"
+msgstr ""
+
+#: framework/portfolio/portfolio-functions.php:87 single-portfolio.php:78
+msgid "Project Details"
+msgstr ""
+
+#: framework/portfolio/portfolio-functions.php:91 single-portfolio.php:82
+msgid "Date"
+msgstr ""
+
+#: framework/portfolio/portfolio-functions.php:108 single-portfolio.php:99
+msgid "Categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-functions.php:144 single-portfolio.php:135
+msgid "Related Projects"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:30
+msgid "Portfolio Item"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:31
+msgid "Add New Item"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:32
+#: framework/portfolio/portfolio-register.php:34
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:33
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:35
+msgid "View Item"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:36
+msgid "Search Portfolio"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:37
+msgid "No portfolio items found"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:38
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:61
+#: framework/portfolio/portfolio-register.php:75
+msgid "Portfolio Categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:62
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:63
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:64
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:65
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:66
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:67
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:68
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:69
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:70
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:71
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:72
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:73
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:74
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:95
+#: framework/portfolio/portfolio-register.php:104
+msgid "Sort Porfolio"
+msgstr ""
+
+#: framework/portfolio/portfolio-register.php:111
+msgid "There is no Portfolio Created"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:13
+msgid "Row ID"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:15
+msgid "Enter row ID (Note: make sure it is unique)."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:21
+msgid "Row's Content Width"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:27
+msgid ""
+"Make the row's content width fullwidth. Useful for fullwidth Portfolio Grid "
+"or Portfolio Carousel."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:32
+msgid "Center Content"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:35 framework/vc-addon/add-params.php:49
+#: framework/vc-addon/add-params.php:59 framework/vc-addon/add-params.php:76
+#: framework/vc-addon/add-params.php:98 framework/vc-addon/add-params.php:138
+#: framework/vc-addon/add-params.php:192 framework/vc-addon/add-params.php:295
+#: framework/vc-addon/add-params.php:305 framework/vc-addon/add-params.php:327
+#: framework/vc-addon/add-params.php:350
+#: framework/vc-addon/shortcodes/address_block.php:208
+#: framework/vc-addon/shortcodes/client_logo_slider.php:110
+#: framework/vc-addon/shortcodes/client_logo_slider.php:129
+#: framework/vc-addon/shortcodes/client_logo_slider.php:142
+#: framework/vc-addon/shortcodes/portfolio_grid.php:283
+#: framework/vc-addon/shortcodes/portfolio_grid.php:327
+#: framework/vc-addon/shortcodes/portfolio_grid.php:367
+#: framework/vc-addon/shortcodes/special_heading.php:193
+#: framework/vc-addon/shortcodes/testimonial_slider.php:219
+#: framework/vc-addon/shortcodes/testimonial_slider.php:240
+#: framework/vc-addon/shortcodes/testimonial_slider.php:254
+#: framework/vc-addon/shortcodes/testimonial_slider.php:268
+#: framework/vc-addon/shortcodes/testimonial_slider.php:304
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:219
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:229
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:251
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:272
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:293
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:307
+#: framework/vc-addon/shortcodes/video_modal.php:182
+#: framework/vc-addon/shortcodes/video_modal.php:202
+msgid "Yes"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:41
+msgid "If checked content will be set in center."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:46
+msgid "Full height row"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:51
+msgid "If checked row will be set to full height."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:56
+msgid "Use Equal Columns"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:61
+msgid "If checked columns in row will be set to same height."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:66
+msgid "Extra class name"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:68
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:73 framework/vc-addon/add-params.php:302
+#: framework/vc-addon/shortcodes/video_modal.php:179
+msgid "Use Color Background"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:78 framework/vc-addon/add-params.php:307
+msgid ""
+"If checked, color will be used as row background, will drop image and video "
+"selection"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:79 framework/vc-addon/add-params.php:86
+#: framework/vc-addon/add-params.php:101 framework/vc-addon/add-params.php:113
+#: framework/vc-addon/add-params.php:130 framework/vc-addon/add-params.php:141
+#: framework/vc-addon/add-params.php:154 framework/vc-addon/add-params.php:171
+#: framework/vc-addon/add-params.php:183 framework/vc-addon/add-params.php:199
+#: framework/vc-addon/add-params.php:211 framework/vc-addon/add-params.php:224
+#: framework/vc-addon/add-params.php:308 framework/vc-addon/add-params.php:319
+#: framework/vc-addon/add-params.php:330 framework/vc-addon/add-params.php:342
+#: framework/vc-addon/add-params.php:357 framework/vc-addon/add-params.php:369
+#: framework/vc-addon/add-params.php:382
+#: framework/vc-addon/shortcodes/video_modal.php:185
+#: framework/vc-addon/shortcodes/video_modal.php:191
+#: framework/vc-addon/shortcodes/video_modal.php:205
+#: framework/vc-addon/shortcodes/video_modal.php:216
+msgid "Background"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:84 framework/vc-addon/add-params.php:313
+#: framework/vc-addon/shortcodes/animated_icon_box.php:210
+#: framework/vc-addon/shortcodes/animated_icon_box.php:221
+#: framework/vc-addon/shortcodes/animated_icon_box.php:228
+#: framework/vc-addon/shortcodes/animated_icon_box.php:238
+#: framework/vc-addon/shortcodes/animated_icon_box.php:250
+#: framework/vc-addon/shortcodes/animated_icon_box.php:257
+#: framework/vc-addon/shortcodes/animated_icon_box.php:268
+#: framework/vc-addon/shortcodes/video_modal.php:189
+msgid "Color"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:95 framework/vc-addon/add-params.php:324
+#: framework/vc-addon/shortcodes/video_modal.php:199
+msgid "Use Image Background"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:100 framework/vc-addon/add-params.php:329
+msgid ""
+"If checked, image will be used as row background, will drop video selection."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:108 framework/vc-addon/add-params.php:337
+#: framework/vc-addon/shortcodes/video_modal.php:211
+msgid "Select image from media library."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:118 framework/vc-addon/add-params.php:159
+msgid "Parallax"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:121 framework/vc-addon/add-params.php:162
+#: framework/vc-addon/add-params.php:516 framework/vc-addon/add-params.php:619
+#: framework/vc-addon/shortcodes/address_block.php:269
+#: framework/vc-addon/shortcodes/blog_grid.php:262
+#: framework/vc-addon/shortcodes/button.php:153
+#: framework/vc-addon/shortcodes/button.php:164
+#: framework/vc-addon/shortcodes/button.php:233
+#: framework/vc-addon/shortcodes/call_to_action.php:282
+#: framework/vc-addon/shortcodes/call_to_action.php:333
+#: framework/vc-addon/shortcodes/call_to_action.php:361
+#: framework/vc-addon/shortcodes/client_logo_slider.php:183
+#: framework/vc-addon/shortcodes/counter.php:288
+#: framework/vc-addon/shortcodes/featured_img_box.php:230
+#: framework/vc-addon/shortcodes/icon_box.php:365
+#: framework/vc-addon/shortcodes/pricing_box.php:215
+#: framework/vc-addon/shortcodes/special_heading.php:177
+#: framework/vc-addon/shortcodes/special_heading.php:202
+#: framework/vc-addon/shortcodes/team_member.php:397
+#: framework/vc-addon/shortcodes/testimonial_slider.php:329
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:320
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:162
+msgid "None"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:122 framework/vc-addon/add-params.php:163
+msgid "Simple"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:123 framework/vc-addon/add-params.php:164
+msgid "With fade"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:125 framework/vc-addon/add-params.php:166
+msgid "Add parallax type background for row."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:135
+msgid "Use Video Background"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:140
+msgid "If checked, video will be used as row background."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:146
+msgid "Embed YouTube video"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:149
+msgid ""
+"Link to the video.Video will be off on mobile please select background image "
+"to appear if video is off."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:176
+msgid "Image on mobile"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:178
+msgid "Select image from media library for mobile as video will be off."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:189 framework/vc-addon/add-params.php:347
+msgid "Overlay"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:194 framework/vc-addon/add-params.php:352
+msgid "Check to enable overlay."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:204 framework/vc-addon/add-params.php:362
+msgid "Overlay Image"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:210 framework/vc-addon/add-params.php:368
+msgid "Select overlay image from media library."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:216 framework/vc-addon/add-params.php:374
+#: framework/vc-addon/shortcodes/featured_img_box.php:168
+msgid "Overlay Color"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:223 framework/vc-addon/add-params.php:381
+msgid "Select overlay color."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:230 framework/vc-addon/add-params.php:415
+#: framework/vc-addon/shortcodes/button.php:218
+msgid "Margin Top"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:232 framework/vc-addon/add-params.php:239
+#: framework/vc-addon/add-params.php:246 framework/vc-addon/add-params.php:253
+#: framework/vc-addon/add-params.php:417 framework/vc-addon/add-params.php:424
+#: framework/vc-addon/add-params.php:431 framework/vc-addon/add-params.php:438
+#: framework/vc-addon/shortcodes/button.php:220
+#: framework/vc-addon/shortcodes/button.php:226
+msgid "Margin"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:237 framework/vc-addon/add-params.php:422
+#: framework/vc-addon/shortcodes/button.php:224
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:244 framework/vc-addon/add-params.php:429
+msgid "Margin Left"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:251 framework/vc-addon/add-params.php:436
+msgid "Margin Right"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:258 framework/vc-addon/add-params.php:387
+#: framework/vc-addon/shortcodes/video_modal.php:220
+msgid "Padding Top"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:260 framework/vc-addon/add-params.php:267
+#: framework/vc-addon/add-params.php:275 framework/vc-addon/add-params.php:282
+#: framework/vc-addon/add-params.php:389 framework/vc-addon/add-params.php:396
+#: framework/vc-addon/add-params.php:403 framework/vc-addon/add-params.php:410
+#: framework/vc-addon/shortcodes/video_modal.php:222
+#: framework/vc-addon/shortcodes/video_modal.php:228
+msgid "Padding"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:265 framework/vc-addon/add-params.php:394
+#: framework/vc-addon/shortcodes/video_modal.php:226
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:273 framework/vc-addon/add-params.php:401
+msgid "Padding Left"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:280 framework/vc-addon/add-params.php:408
+msgid "Padding Right"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:292
+msgid "Apply No Padding"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:297
+msgid "If checked, no padding will be applied to column."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:447
+#: framework/vc-addon/shortcodes/team_member.php:291
+msgid "Progress Bar Data"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:449
+msgid "Enter values for prgoress bar."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:452
+#: framework/vc-addon/shortcodes/team_member.php:296
+#: framework/vc-addon/vc-templates/vc_progress_bar.php:25
+msgid "Development"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:456
+#: framework/vc-addon/shortcodes/team_member.php:300
+#: framework/vc-addon/vc-templates/vc_progress_bar.php:29
+msgid "Design"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:460
+#: framework/vc-addon/shortcodes/team_member.php:304
+#: framework/vc-addon/vc-templates/vc_progress_bar.php:33
+msgid "Marketing"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:467
+#: framework/vc-addon/shortcodes/team_member.php:311
+msgid "Label"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:469
+#: framework/vc-addon/shortcodes/team_member.php:313
+msgid "Enter the text for progress bar title."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:476
+#: framework/vc-addon/shortcodes/team_member.php:319
+msgid "Enter percentage value for bar."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:481
+#: framework/vc-addon/shortcodes/team_member.php:323
+msgid "Use Theme Color for Progress Bar"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:484
+#: framework/vc-addon/shortcodes/address_block.php:172
+#: framework/vc-addon/shortcodes/address_block.php:181
+#: framework/vc-addon/shortcodes/animated_icon_box.php:173
+#: framework/vc-addon/shortcodes/animated_icon_box.php:182
+#: framework/vc-addon/shortcodes/animated_icon_box.php:197
+#: framework/vc-addon/shortcodes/animated_icon_box.php:236
+#: framework/vc-addon/shortcodes/blog_grid.php:235
+#: framework/vc-addon/shortcodes/blog_grid.php:244
+#: framework/vc-addon/shortcodes/blog_grid.php:253
+#: framework/vc-addon/shortcodes/call_to_action.php:196
+#: framework/vc-addon/shortcodes/call_to_action.php:205
+#: framework/vc-addon/shortcodes/call_to_action.php:310
+#: framework/vc-addon/shortcodes/counter.php:168
+#: framework/vc-addon/shortcodes/counter.php:212
+#: framework/vc-addon/shortcodes/icon_box.php:252
+#: framework/vc-addon/shortcodes/icon_box.php:272
+#: framework/vc-addon/shortcodes/icon_box.php:297
+#: framework/vc-addon/shortcodes/pricing_box.php:155
+#: framework/vc-addon/shortcodes/special_heading.php:111
+#: framework/vc-addon/shortcodes/special_heading.php:146
+#: framework/vc-addon/shortcodes/team_member.php:241
+#: framework/vc-addon/shortcodes/team_member.php:250
+#: framework/vc-addon/shortcodes/team_member.php:263
+#: framework/vc-addon/shortcodes/team_member.php:326
+#: framework/vc-addon/shortcodes/team_member.php:355
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:199
+#: framework/vc-addon/shortcodes/video_modal.php:146
+#: framework/vc-addon/shortcodes/video_modal.php:163
+msgid "Yes."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:486
+msgid "Use theme color for progress bar."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:490
+msgid "Custom color"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:496
+msgid "Select custom color for progress bar."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:501
+msgid "Custom text color"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:503
+msgid "Select custom progress bar text color."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:513 framework/vc-addon/add-params.php:616
+#: framework/vc-addon/shortcodes/address_block.php:266
+#: framework/vc-addon/shortcodes/blog_grid.php:259
+#: framework/vc-addon/shortcodes/button.php:230
+#: framework/vc-addon/shortcodes/call_to_action.php:358
+#: framework/vc-addon/shortcodes/client_logo_slider.php:180
+#: framework/vc-addon/shortcodes/counter.php:285
+#: framework/vc-addon/shortcodes/featured_img_box.php:227
+#: framework/vc-addon/shortcodes/icon_box.php:362
+#: framework/vc-addon/shortcodes/pricing_box.php:212
+#: framework/vc-addon/shortcodes/special_heading.php:199
+#: framework/vc-addon/shortcodes/team_member.php:394
+#: framework/vc-addon/shortcodes/testimonial_slider.php:326
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:317
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:159
+msgid "Animation Effect"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:517 framework/vc-addon/add-params.php:620
+#: framework/vc-addon/shortcodes/address_block.php:270
+#: framework/vc-addon/shortcodes/blog_grid.php:263
+#: framework/vc-addon/shortcodes/button.php:234
+#: framework/vc-addon/shortcodes/call_to_action.php:362
+#: framework/vc-addon/shortcodes/client_logo_slider.php:184
+#: framework/vc-addon/shortcodes/counter.php:289
+#: framework/vc-addon/shortcodes/featured_img_box.php:231
+#: framework/vc-addon/shortcodes/icon_box.php:366
+#: framework/vc-addon/shortcodes/pricing_box.php:216
+#: framework/vc-addon/shortcodes/special_heading.php:203
+#: framework/vc-addon/shortcodes/team_member.php:398
+#: framework/vc-addon/shortcodes/testimonial_slider.php:330
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:321
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:163
+msgid "bounceIn"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:518 framework/vc-addon/add-params.php:621
+#: framework/vc-addon/shortcodes/address_block.php:271
+#: framework/vc-addon/shortcodes/blog_grid.php:264
+#: framework/vc-addon/shortcodes/button.php:235
+#: framework/vc-addon/shortcodes/call_to_action.php:363
+#: framework/vc-addon/shortcodes/client_logo_slider.php:185
+#: framework/vc-addon/shortcodes/counter.php:290
+#: framework/vc-addon/shortcodes/featured_img_box.php:232
+#: framework/vc-addon/shortcodes/icon_box.php:367
+#: framework/vc-addon/shortcodes/pricing_box.php:217
+#: framework/vc-addon/shortcodes/special_heading.php:204
+#: framework/vc-addon/shortcodes/team_member.php:399
+#: framework/vc-addon/shortcodes/testimonial_slider.php:331
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:322
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:164
+msgid "bounceInDown"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:519 framework/vc-addon/add-params.php:622
+#: framework/vc-addon/shortcodes/address_block.php:272
+#: framework/vc-addon/shortcodes/blog_grid.php:265
+#: framework/vc-addon/shortcodes/button.php:236
+#: framework/vc-addon/shortcodes/call_to_action.php:364
+#: framework/vc-addon/shortcodes/client_logo_slider.php:186
+#: framework/vc-addon/shortcodes/counter.php:291
+#: framework/vc-addon/shortcodes/featured_img_box.php:233
+#: framework/vc-addon/shortcodes/icon_box.php:368
+#: framework/vc-addon/shortcodes/pricing_box.php:218
+#: framework/vc-addon/shortcodes/special_heading.php:205
+#: framework/vc-addon/shortcodes/team_member.php:400
+#: framework/vc-addon/shortcodes/testimonial_slider.php:332
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:323
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:165
+msgid "bounceInLeft"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:520 framework/vc-addon/add-params.php:623
+#: framework/vc-addon/shortcodes/address_block.php:273
+#: framework/vc-addon/shortcodes/blog_grid.php:266
+#: framework/vc-addon/shortcodes/button.php:237
+#: framework/vc-addon/shortcodes/call_to_action.php:365
+#: framework/vc-addon/shortcodes/client_logo_slider.php:187
+#: framework/vc-addon/shortcodes/counter.php:292
+#: framework/vc-addon/shortcodes/featured_img_box.php:234
+#: framework/vc-addon/shortcodes/icon_box.php:369
+#: framework/vc-addon/shortcodes/pricing_box.php:219
+#: framework/vc-addon/shortcodes/special_heading.php:206
+#: framework/vc-addon/shortcodes/team_member.php:401
+#: framework/vc-addon/shortcodes/testimonial_slider.php:333
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:324
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:166
+msgid "bounceInRight"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:521 framework/vc-addon/add-params.php:624
+#: framework/vc-addon/shortcodes/address_block.php:274
+#: framework/vc-addon/shortcodes/blog_grid.php:267
+#: framework/vc-addon/shortcodes/button.php:238
+#: framework/vc-addon/shortcodes/call_to_action.php:366
+#: framework/vc-addon/shortcodes/client_logo_slider.php:188
+#: framework/vc-addon/shortcodes/counter.php:293
+#: framework/vc-addon/shortcodes/featured_img_box.php:235
+#: framework/vc-addon/shortcodes/icon_box.php:370
+#: framework/vc-addon/shortcodes/pricing_box.php:220
+#: framework/vc-addon/shortcodes/special_heading.php:207
+#: framework/vc-addon/shortcodes/team_member.php:402
+#: framework/vc-addon/shortcodes/testimonial_slider.php:334
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:325
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:167
+msgid "bounceInUp"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:522 framework/vc-addon/add-params.php:625
+#: framework/vc-addon/shortcodes/address_block.php:275
+#: framework/vc-addon/shortcodes/blog_grid.php:268
+#: framework/vc-addon/shortcodes/button.php:239
+#: framework/vc-addon/shortcodes/call_to_action.php:367
+#: framework/vc-addon/shortcodes/client_logo_slider.php:189
+#: framework/vc-addon/shortcodes/counter.php:294
+#: framework/vc-addon/shortcodes/featured_img_box.php:236
+#: framework/vc-addon/shortcodes/icon_box.php:371
+#: framework/vc-addon/shortcodes/portfolio_grid.php:273
+#: framework/vc-addon/shortcodes/pricing_box.php:221
+#: framework/vc-addon/shortcodes/special_heading.php:208
+#: framework/vc-addon/shortcodes/team_member.php:403
+#: framework/vc-addon/shortcodes/testimonial_slider.php:335
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:326
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:168
+msgid "fadeIn"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:523 framework/vc-addon/add-params.php:626
+#: framework/vc-addon/shortcodes/address_block.php:276
+#: framework/vc-addon/shortcodes/blog_grid.php:269
+#: framework/vc-addon/shortcodes/button.php:240
+#: framework/vc-addon/shortcodes/call_to_action.php:368
+#: framework/vc-addon/shortcodes/client_logo_slider.php:190
+#: framework/vc-addon/shortcodes/counter.php:295
+#: framework/vc-addon/shortcodes/featured_img_box.php:237
+#: framework/vc-addon/shortcodes/icon_box.php:372
+#: framework/vc-addon/shortcodes/pricing_box.php:222
+#: framework/vc-addon/shortcodes/special_heading.php:209
+#: framework/vc-addon/shortcodes/team_member.php:404
+#: framework/vc-addon/shortcodes/testimonial_slider.php:336
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:327
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:169
+msgid "fadeInDown"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:524 framework/vc-addon/add-params.php:627
+#: framework/vc-addon/shortcodes/address_block.php:277
+#: framework/vc-addon/shortcodes/blog_grid.php:270
+#: framework/vc-addon/shortcodes/button.php:241
+#: framework/vc-addon/shortcodes/call_to_action.php:369
+#: framework/vc-addon/shortcodes/client_logo_slider.php:191
+#: framework/vc-addon/shortcodes/counter.php:296
+#: framework/vc-addon/shortcodes/featured_img_box.php:238
+#: framework/vc-addon/shortcodes/icon_box.php:373
+#: framework/vc-addon/shortcodes/pricing_box.php:223
+#: framework/vc-addon/shortcodes/special_heading.php:210
+#: framework/vc-addon/shortcodes/team_member.php:405
+#: framework/vc-addon/shortcodes/testimonial_slider.php:337
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:328
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:170
+msgid "fadeInDownBig"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:525 framework/vc-addon/add-params.php:628
+#: framework/vc-addon/shortcodes/address_block.php:278
+#: framework/vc-addon/shortcodes/blog_grid.php:271
+#: framework/vc-addon/shortcodes/button.php:242
+#: framework/vc-addon/shortcodes/call_to_action.php:370
+#: framework/vc-addon/shortcodes/client_logo_slider.php:192
+#: framework/vc-addon/shortcodes/counter.php:297
+#: framework/vc-addon/shortcodes/featured_img_box.php:239
+#: framework/vc-addon/shortcodes/icon_box.php:374
+#: framework/vc-addon/shortcodes/pricing_box.php:224
+#: framework/vc-addon/shortcodes/special_heading.php:211
+#: framework/vc-addon/shortcodes/team_member.php:406
+#: framework/vc-addon/shortcodes/testimonial_slider.php:338
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:329
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:171
+msgid "fadeInLeft"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:526 framework/vc-addon/add-params.php:629
+#: framework/vc-addon/shortcodes/address_block.php:279
+#: framework/vc-addon/shortcodes/blog_grid.php:272
+#: framework/vc-addon/shortcodes/button.php:243
+#: framework/vc-addon/shortcodes/call_to_action.php:371
+#: framework/vc-addon/shortcodes/client_logo_slider.php:193
+#: framework/vc-addon/shortcodes/counter.php:298
+#: framework/vc-addon/shortcodes/featured_img_box.php:240
+#: framework/vc-addon/shortcodes/icon_box.php:375
+#: framework/vc-addon/shortcodes/pricing_box.php:225
+#: framework/vc-addon/shortcodes/special_heading.php:212
+#: framework/vc-addon/shortcodes/team_member.php:407
+#: framework/vc-addon/shortcodes/testimonial_slider.php:339
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:330
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:172
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:527 framework/vc-addon/add-params.php:630
+#: framework/vc-addon/shortcodes/address_block.php:280
+#: framework/vc-addon/shortcodes/blog_grid.php:273
+#: framework/vc-addon/shortcodes/button.php:244
+#: framework/vc-addon/shortcodes/call_to_action.php:372
+#: framework/vc-addon/shortcodes/client_logo_slider.php:194
+#: framework/vc-addon/shortcodes/counter.php:299
+#: framework/vc-addon/shortcodes/featured_img_box.php:241
+#: framework/vc-addon/shortcodes/icon_box.php:376
+#: framework/vc-addon/shortcodes/pricing_box.php:226
+#: framework/vc-addon/shortcodes/special_heading.php:213
+#: framework/vc-addon/shortcodes/team_member.php:408
+#: framework/vc-addon/shortcodes/testimonial_slider.php:340
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:331
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:173
+msgid "fadeInRight"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:528 framework/vc-addon/add-params.php:631
+#: framework/vc-addon/shortcodes/address_block.php:281
+#: framework/vc-addon/shortcodes/blog_grid.php:274
+#: framework/vc-addon/shortcodes/button.php:245
+#: framework/vc-addon/shortcodes/call_to_action.php:373
+#: framework/vc-addon/shortcodes/client_logo_slider.php:195
+#: framework/vc-addon/shortcodes/counter.php:300
+#: framework/vc-addon/shortcodes/featured_img_box.php:242
+#: framework/vc-addon/shortcodes/icon_box.php:377
+#: framework/vc-addon/shortcodes/pricing_box.php:227
+#: framework/vc-addon/shortcodes/special_heading.php:214
+#: framework/vc-addon/shortcodes/team_member.php:409
+#: framework/vc-addon/shortcodes/testimonial_slider.php:341
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:332
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:174
+msgid "fadeInRightBig"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:529 framework/vc-addon/add-params.php:632
+#: framework/vc-addon/shortcodes/address_block.php:282
+#: framework/vc-addon/shortcodes/blog_grid.php:275
+#: framework/vc-addon/shortcodes/button.php:246
+#: framework/vc-addon/shortcodes/call_to_action.php:374
+#: framework/vc-addon/shortcodes/client_logo_slider.php:196
+#: framework/vc-addon/shortcodes/counter.php:301
+#: framework/vc-addon/shortcodes/featured_img_box.php:243
+#: framework/vc-addon/shortcodes/icon_box.php:378
+#: framework/vc-addon/shortcodes/pricing_box.php:228
+#: framework/vc-addon/shortcodes/special_heading.php:215
+#: framework/vc-addon/shortcodes/team_member.php:410
+#: framework/vc-addon/shortcodes/testimonial_slider.php:342
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:333
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:175
+msgid "fadeInUp"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:530 framework/vc-addon/add-params.php:633
+#: framework/vc-addon/shortcodes/address_block.php:283
+#: framework/vc-addon/shortcodes/blog_grid.php:276
+#: framework/vc-addon/shortcodes/button.php:247
+#: framework/vc-addon/shortcodes/call_to_action.php:375
+#: framework/vc-addon/shortcodes/client_logo_slider.php:197
+#: framework/vc-addon/shortcodes/counter.php:302
+#: framework/vc-addon/shortcodes/featured_img_box.php:244
+#: framework/vc-addon/shortcodes/icon_box.php:379
+#: framework/vc-addon/shortcodes/pricing_box.php:229
+#: framework/vc-addon/shortcodes/special_heading.php:216
+#: framework/vc-addon/shortcodes/team_member.php:411
+#: framework/vc-addon/shortcodes/testimonial_slider.php:343
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:334
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:176
+msgid "flipInX"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:531 framework/vc-addon/add-params.php:634
+#: framework/vc-addon/shortcodes/address_block.php:284
+#: framework/vc-addon/shortcodes/blog_grid.php:277
+#: framework/vc-addon/shortcodes/button.php:248
+#: framework/vc-addon/shortcodes/call_to_action.php:376
+#: framework/vc-addon/shortcodes/client_logo_slider.php:198
+#: framework/vc-addon/shortcodes/counter.php:303
+#: framework/vc-addon/shortcodes/featured_img_box.php:245
+#: framework/vc-addon/shortcodes/icon_box.php:380
+#: framework/vc-addon/shortcodes/pricing_box.php:230
+#: framework/vc-addon/shortcodes/special_heading.php:217
+#: framework/vc-addon/shortcodes/team_member.php:412
+#: framework/vc-addon/shortcodes/testimonial_slider.php:344
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:335
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:177
+msgid "flipInY"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:532 framework/vc-addon/add-params.php:635
+#: framework/vc-addon/shortcodes/address_block.php:285
+#: framework/vc-addon/shortcodes/blog_grid.php:278
+#: framework/vc-addon/shortcodes/button.php:249
+#: framework/vc-addon/shortcodes/call_to_action.php:377
+#: framework/vc-addon/shortcodes/client_logo_slider.php:199
+#: framework/vc-addon/shortcodes/counter.php:304
+#: framework/vc-addon/shortcodes/featured_img_box.php:246
+#: framework/vc-addon/shortcodes/icon_box.php:381
+#: framework/vc-addon/shortcodes/pricing_box.php:231
+#: framework/vc-addon/shortcodes/special_heading.php:218
+#: framework/vc-addon/shortcodes/team_member.php:413
+#: framework/vc-addon/shortcodes/testimonial_slider.php:345
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:336
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:178
+msgid "lightSpeedIn"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:533 framework/vc-addon/add-params.php:636
+#: framework/vc-addon/shortcodes/address_block.php:286
+#: framework/vc-addon/shortcodes/blog_grid.php:279
+#: framework/vc-addon/shortcodes/button.php:250
+#: framework/vc-addon/shortcodes/call_to_action.php:378
+#: framework/vc-addon/shortcodes/client_logo_slider.php:200
+#: framework/vc-addon/shortcodes/counter.php:305
+#: framework/vc-addon/shortcodes/featured_img_box.php:247
+#: framework/vc-addon/shortcodes/icon_box.php:382
+#: framework/vc-addon/shortcodes/pricing_box.php:232
+#: framework/vc-addon/shortcodes/special_heading.php:219
+#: framework/vc-addon/shortcodes/team_member.php:414
+#: framework/vc-addon/shortcodes/testimonial_slider.php:346
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:337
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:179
+msgid "rotateIn"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:534 framework/vc-addon/add-params.php:637
+#: framework/vc-addon/shortcodes/address_block.php:287
+#: framework/vc-addon/shortcodes/blog_grid.php:280
+#: framework/vc-addon/shortcodes/button.php:251
+#: framework/vc-addon/shortcodes/call_to_action.php:379
+#: framework/vc-addon/shortcodes/client_logo_slider.php:201
+#: framework/vc-addon/shortcodes/counter.php:306
+#: framework/vc-addon/shortcodes/featured_img_box.php:248
+#: framework/vc-addon/shortcodes/icon_box.php:383
+#: framework/vc-addon/shortcodes/pricing_box.php:233
+#: framework/vc-addon/shortcodes/special_heading.php:220
+#: framework/vc-addon/shortcodes/team_member.php:415
+#: framework/vc-addon/shortcodes/testimonial_slider.php:347
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:338
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:180
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:535 framework/vc-addon/add-params.php:638
+#: framework/vc-addon/shortcodes/address_block.php:288
+#: framework/vc-addon/shortcodes/blog_grid.php:281
+#: framework/vc-addon/shortcodes/button.php:252
+#: framework/vc-addon/shortcodes/call_to_action.php:380
+#: framework/vc-addon/shortcodes/client_logo_slider.php:202
+#: framework/vc-addon/shortcodes/counter.php:307
+#: framework/vc-addon/shortcodes/featured_img_box.php:249
+#: framework/vc-addon/shortcodes/icon_box.php:384
+#: framework/vc-addon/shortcodes/pricing_box.php:234
+#: framework/vc-addon/shortcodes/special_heading.php:221
+#: framework/vc-addon/shortcodes/team_member.php:416
+#: framework/vc-addon/shortcodes/testimonial_slider.php:348
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:339
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:181
+msgid "rotateInDownRight"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:536 framework/vc-addon/add-params.php:639
+#: framework/vc-addon/shortcodes/address_block.php:289
+#: framework/vc-addon/shortcodes/blog_grid.php:282
+#: framework/vc-addon/shortcodes/button.php:253
+#: framework/vc-addon/shortcodes/call_to_action.php:381
+#: framework/vc-addon/shortcodes/client_logo_slider.php:203
+#: framework/vc-addon/shortcodes/counter.php:308
+#: framework/vc-addon/shortcodes/featured_img_box.php:250
+#: framework/vc-addon/shortcodes/icon_box.php:385
+#: framework/vc-addon/shortcodes/pricing_box.php:235
+#: framework/vc-addon/shortcodes/special_heading.php:222
+#: framework/vc-addon/shortcodes/team_member.php:417
+#: framework/vc-addon/shortcodes/testimonial_slider.php:349
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:340
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:182
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:537 framework/vc-addon/add-params.php:640
+#: framework/vc-addon/shortcodes/address_block.php:290
+#: framework/vc-addon/shortcodes/blog_grid.php:283
+#: framework/vc-addon/shortcodes/button.php:254
+#: framework/vc-addon/shortcodes/call_to_action.php:382
+#: framework/vc-addon/shortcodes/client_logo_slider.php:204
+#: framework/vc-addon/shortcodes/counter.php:309
+#: framework/vc-addon/shortcodes/featured_img_box.php:251
+#: framework/vc-addon/shortcodes/icon_box.php:386
+#: framework/vc-addon/shortcodes/pricing_box.php:236
+#: framework/vc-addon/shortcodes/special_heading.php:223
+#: framework/vc-addon/shortcodes/team_member.php:418
+#: framework/vc-addon/shortcodes/testimonial_slider.php:350
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:341
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:183
+msgid "rotateInUpRight"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:538 framework/vc-addon/add-params.php:641
+#: framework/vc-addon/shortcodes/address_block.php:291
+#: framework/vc-addon/shortcodes/blog_grid.php:284
+#: framework/vc-addon/shortcodes/button.php:255
+#: framework/vc-addon/shortcodes/call_to_action.php:383
+#: framework/vc-addon/shortcodes/client_logo_slider.php:205
+#: framework/vc-addon/shortcodes/counter.php:310
+#: framework/vc-addon/shortcodes/featured_img_box.php:252
+#: framework/vc-addon/shortcodes/icon_box.php:387
+#: framework/vc-addon/shortcodes/pricing_box.php:237
+#: framework/vc-addon/shortcodes/special_heading.php:224
+#: framework/vc-addon/shortcodes/team_member.php:419
+#: framework/vc-addon/shortcodes/testimonial_slider.php:351
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:342
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:184
+msgid "slideInUp"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:539 framework/vc-addon/add-params.php:642
+#: framework/vc-addon/shortcodes/address_block.php:292
+#: framework/vc-addon/shortcodes/blog_grid.php:285
+#: framework/vc-addon/shortcodes/button.php:256
+#: framework/vc-addon/shortcodes/call_to_action.php:384
+#: framework/vc-addon/shortcodes/client_logo_slider.php:206
+#: framework/vc-addon/shortcodes/counter.php:311
+#: framework/vc-addon/shortcodes/featured_img_box.php:253
+#: framework/vc-addon/shortcodes/icon_box.php:388
+#: framework/vc-addon/shortcodes/pricing_box.php:238
+#: framework/vc-addon/shortcodes/special_heading.php:225
+#: framework/vc-addon/shortcodes/team_member.php:420
+#: framework/vc-addon/shortcodes/testimonial_slider.php:352
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:343
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:185
+msgid "slideInDown"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:540 framework/vc-addon/add-params.php:643
+#: framework/vc-addon/shortcodes/address_block.php:293
+#: framework/vc-addon/shortcodes/blog_grid.php:286
+#: framework/vc-addon/shortcodes/button.php:257
+#: framework/vc-addon/shortcodes/call_to_action.php:385
+#: framework/vc-addon/shortcodes/client_logo_slider.php:207
+#: framework/vc-addon/shortcodes/counter.php:312
+#: framework/vc-addon/shortcodes/featured_img_box.php:254
+#: framework/vc-addon/shortcodes/icon_box.php:389
+#: framework/vc-addon/shortcodes/pricing_box.php:239
+#: framework/vc-addon/shortcodes/special_heading.php:226
+#: framework/vc-addon/shortcodes/team_member.php:421
+#: framework/vc-addon/shortcodes/testimonial_slider.php:353
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:344
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:186
+msgid "slideInLeft"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:541 framework/vc-addon/add-params.php:644
+#: framework/vc-addon/shortcodes/address_block.php:294
+#: framework/vc-addon/shortcodes/blog_grid.php:287
+#: framework/vc-addon/shortcodes/button.php:258
+#: framework/vc-addon/shortcodes/call_to_action.php:386
+#: framework/vc-addon/shortcodes/client_logo_slider.php:208
+#: framework/vc-addon/shortcodes/counter.php:313
+#: framework/vc-addon/shortcodes/featured_img_box.php:255
+#: framework/vc-addon/shortcodes/icon_box.php:390
+#: framework/vc-addon/shortcodes/pricing_box.php:240
+#: framework/vc-addon/shortcodes/special_heading.php:227
+#: framework/vc-addon/shortcodes/team_member.php:422
+#: framework/vc-addon/shortcodes/testimonial_slider.php:354
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:345
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:187
+msgid "slideInRight"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:542 framework/vc-addon/add-params.php:645
+#: framework/vc-addon/shortcodes/address_block.php:295
+#: framework/vc-addon/shortcodes/blog_grid.php:288
+#: framework/vc-addon/shortcodes/button.php:259
+#: framework/vc-addon/shortcodes/call_to_action.php:387
+#: framework/vc-addon/shortcodes/client_logo_slider.php:209
+#: framework/vc-addon/shortcodes/counter.php:314
+#: framework/vc-addon/shortcodes/featured_img_box.php:256
+#: framework/vc-addon/shortcodes/icon_box.php:391
+#: framework/vc-addon/shortcodes/pricing_box.php:241
+#: framework/vc-addon/shortcodes/special_heading.php:228
+#: framework/vc-addon/shortcodes/team_member.php:423
+#: framework/vc-addon/shortcodes/testimonial_slider.php:355
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:346
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:188
+msgid "zoomIn"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:543 framework/vc-addon/add-params.php:646
+#: framework/vc-addon/shortcodes/address_block.php:296
+#: framework/vc-addon/shortcodes/blog_grid.php:289
+#: framework/vc-addon/shortcodes/button.php:260
+#: framework/vc-addon/shortcodes/call_to_action.php:388
+#: framework/vc-addon/shortcodes/client_logo_slider.php:210
+#: framework/vc-addon/shortcodes/counter.php:315
+#: framework/vc-addon/shortcodes/featured_img_box.php:257
+#: framework/vc-addon/shortcodes/icon_box.php:392
+#: framework/vc-addon/shortcodes/pricing_box.php:242
+#: framework/vc-addon/shortcodes/special_heading.php:229
+#: framework/vc-addon/shortcodes/team_member.php:424
+#: framework/vc-addon/shortcodes/testimonial_slider.php:356
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:347
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:189
+msgid "zoomInDown"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:544 framework/vc-addon/add-params.php:647
+#: framework/vc-addon/shortcodes/address_block.php:297
+#: framework/vc-addon/shortcodes/blog_grid.php:290
+#: framework/vc-addon/shortcodes/button.php:261
+#: framework/vc-addon/shortcodes/call_to_action.php:389
+#: framework/vc-addon/shortcodes/client_logo_slider.php:211
+#: framework/vc-addon/shortcodes/counter.php:316
+#: framework/vc-addon/shortcodes/featured_img_box.php:258
+#: framework/vc-addon/shortcodes/icon_box.php:393
+#: framework/vc-addon/shortcodes/pricing_box.php:243
+#: framework/vc-addon/shortcodes/special_heading.php:230
+#: framework/vc-addon/shortcodes/team_member.php:425
+#: framework/vc-addon/shortcodes/testimonial_slider.php:357
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:348
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:190
+msgid "zoomInLeft"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:545 framework/vc-addon/add-params.php:648
+#: framework/vc-addon/shortcodes/address_block.php:298
+#: framework/vc-addon/shortcodes/blog_grid.php:291
+#: framework/vc-addon/shortcodes/button.php:262
+#: framework/vc-addon/shortcodes/call_to_action.php:390
+#: framework/vc-addon/shortcodes/client_logo_slider.php:212
+#: framework/vc-addon/shortcodes/counter.php:317
+#: framework/vc-addon/shortcodes/featured_img_box.php:259
+#: framework/vc-addon/shortcodes/icon_box.php:394
+#: framework/vc-addon/shortcodes/pricing_box.php:244
+#: framework/vc-addon/shortcodes/special_heading.php:231
+#: framework/vc-addon/shortcodes/team_member.php:426
+#: framework/vc-addon/shortcodes/testimonial_slider.php:358
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:349
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:191
+msgid "zoomInRight"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:546 framework/vc-addon/add-params.php:649
+#: framework/vc-addon/shortcodes/address_block.php:299
+#: framework/vc-addon/shortcodes/blog_grid.php:292
+#: framework/vc-addon/shortcodes/button.php:263
+#: framework/vc-addon/shortcodes/call_to_action.php:391
+#: framework/vc-addon/shortcodes/client_logo_slider.php:213
+#: framework/vc-addon/shortcodes/counter.php:318
+#: framework/vc-addon/shortcodes/featured_img_box.php:260
+#: framework/vc-addon/shortcodes/icon_box.php:395
+#: framework/vc-addon/shortcodes/pricing_box.php:245
+#: framework/vc-addon/shortcodes/special_heading.php:232
+#: framework/vc-addon/shortcodes/team_member.php:427
+#: framework/vc-addon/shortcodes/testimonial_slider.php:359
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:350
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:192
+msgid "zoomInUp"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:547 framework/vc-addon/add-params.php:650
+#: framework/vc-addon/shortcodes/address_block.php:300
+#: framework/vc-addon/shortcodes/blog_grid.php:293
+#: framework/vc-addon/shortcodes/button.php:264
+#: framework/vc-addon/shortcodes/call_to_action.php:392
+#: framework/vc-addon/shortcodes/client_logo_slider.php:214
+#: framework/vc-addon/shortcodes/counter.php:319
+#: framework/vc-addon/shortcodes/featured_img_box.php:261
+#: framework/vc-addon/shortcodes/icon_box.php:396
+#: framework/vc-addon/shortcodes/pricing_box.php:246
+#: framework/vc-addon/shortcodes/special_heading.php:233
+#: framework/vc-addon/shortcodes/team_member.php:428
+#: framework/vc-addon/shortcodes/testimonial_slider.php:360
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:351
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:193
+msgid "rollIn"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:550
+#: framework/vc-addon/shortcodes/blog_grid.php:295
+#: framework/vc-addon/shortcodes/call_to_action.php:394
+#: framework/vc-addon/shortcodes/counter.php:321
+#: framework/vc-addon/shortcodes/pricing_box.php:248
+#: framework/vc-addon/shortcodes/special_heading.php:235
+#: framework/vc-addon/shortcodes/testimonial_slider.php:362
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:353
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:195
+msgid "Animation Effect for Heading."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:556 framework/vc-addon/add-params.php:659
+#: framework/vc-addon/shortcodes/address_block.php:307
+#: framework/vc-addon/shortcodes/blog_grid.php:300
+#: framework/vc-addon/shortcodes/button.php:271
+#: framework/vc-addon/shortcodes/call_to_action.php:399
+#: framework/vc-addon/shortcodes/client_logo_slider.php:221
+#: framework/vc-addon/shortcodes/counter.php:326
+#: framework/vc-addon/shortcodes/featured_img_box.php:268
+#: framework/vc-addon/shortcodes/icon_box.php:403
+#: framework/vc-addon/shortcodes/pricing_box.php:253
+#: framework/vc-addon/shortcodes/special_heading.php:240
+#: framework/vc-addon/shortcodes/team_member.php:435
+#: framework/vc-addon/shortcodes/testimonial_slider.php:367
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:358
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:200
+msgid "Animation Delay"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:559
+#: framework/vc-addon/shortcodes/call_to_action.php:402
+#: framework/vc-addon/shortcodes/counter.php:329
+#: framework/vc-addon/shortcodes/pricing_box.php:256
+#: framework/vc-addon/shortcodes/special_heading.php:243
+#: framework/vc-addon/shortcodes/testimonial_slider.php:370
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:361
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:203
+msgid "Animation Delay Timming."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:565 framework/vc-addon/add-params.php:668
+#: framework/vc-addon/shortcodes/address_block.php:315
+#: framework/vc-addon/shortcodes/blog_grid.php:308
+#: framework/vc-addon/shortcodes/button.php:279
+#: framework/vc-addon/shortcodes/call_to_action.php:407
+#: framework/vc-addon/shortcodes/client_logo_slider.php:229
+#: framework/vc-addon/shortcodes/counter.php:334
+#: framework/vc-addon/shortcodes/featured_img_box.php:276
+#: framework/vc-addon/shortcodes/icon_box.php:411
+#: framework/vc-addon/shortcodes/pricing_box.php:261
+#: framework/vc-addon/shortcodes/special_heading.php:248
+#: framework/vc-addon/shortcodes/team_member.php:443
+#: framework/vc-addon/shortcodes/testimonial_slider.php:375
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:366
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:208
+msgid "Animation Duration"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:568
+#: framework/vc-addon/shortcodes/call_to_action.php:410
+#: framework/vc-addon/shortcodes/counter.php:337
+#: framework/vc-addon/shortcodes/pricing_box.php:264
+#: framework/vc-addon/shortcodes/special_heading.php:251
+#: framework/vc-addon/shortcodes/testimonial_slider.php:378
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:369
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:211
+msgid "Animation Duration Timming."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:578
+msgid "Latitude"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:585
+msgid "Longitude"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:592
+msgid "Zoom"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:599
+msgid "Map Height"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:605
+msgid "Map Marker"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:607
+msgid "Select image for map marker."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:652
+#: framework/vc-addon/shortcodes/featured_img_box.php:263
+#: framework/vc-addon/shortcodes/icon_box.php:398
+msgid "Animation Effect for feature box."
+msgstr ""
+
+#: framework/vc-addon/add-params.php:662
+#: framework/vc-addon/shortcodes/address_block.php:310
+#: framework/vc-addon/shortcodes/blog_grid.php:303
+#: framework/vc-addon/shortcodes/button.php:274
+#: framework/vc-addon/shortcodes/client_logo_slider.php:224
+#: framework/vc-addon/shortcodes/featured_img_box.php:271
+#: framework/vc-addon/shortcodes/icon_box.php:406
+#: framework/vc-addon/shortcodes/team_member.php:438
+msgid "Animation Delay Timming in seconds. Default is 0.5"
+msgstr ""
+
+#: framework/vc-addon/add-params.php:671
+#: framework/vc-addon/shortcodes/address_block.php:318
+#: framework/vc-addon/shortcodes/blog_grid.php:311
+#: framework/vc-addon/shortcodes/button.php:282
+#: framework/vc-addon/shortcodes/client_logo_slider.php:232
+#: framework/vc-addon/shortcodes/featured_img_box.php:279
+#: framework/vc-addon/shortcodes/icon_box.php:414
+#: framework/vc-addon/shortcodes/team_member.php:446
+msgid "Animation Duration Timming in seconds. Default is 1."
+msgstr ""
+
+#: framework/vc-addon/functions.php:9
+msgid "Alert"
+msgstr ""
+
+#: framework/vc-addon/functions.php:10
+msgid "Alert Circled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:11
+msgid "Android Add"
+msgstr ""
+
+#: framework/vc-addon/functions.php:12
+msgid "Android Add Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:13
+msgid "Android Alarm Clock"
+msgstr ""
+
+#: framework/vc-addon/functions.php:14
+msgid "Android Alert"
+msgstr ""
+
+#: framework/vc-addon/functions.php:15
+msgid "Android Apps"
+msgstr ""
+
+#: framework/vc-addon/functions.php:16
+msgid "Android Archive"
+msgstr ""
+
+#: framework/vc-addon/functions.php:17
+msgid "Android Arrow Back"
+msgstr ""
+
+#: framework/vc-addon/functions.php:18
+msgid "Android Arrow Down"
+msgstr ""
+
+#: framework/vc-addon/functions.php:19
+msgid "Android Arrow Dropdown"
+msgstr ""
+
+#: framework/vc-addon/functions.php:20
+msgid "Android Arrow Dropdown Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:21
+msgid "Android Arrow Dropleft"
+msgstr ""
+
+#: framework/vc-addon/functions.php:22
+msgid "Android Arrow Dropleft Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:23
+msgid "Android Arrow Dropright"
+msgstr ""
+
+#: framework/vc-addon/functions.php:24
+msgid "Android Arrow Dropright Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:25
+msgid "Android Arrow Dropup"
+msgstr ""
+
+#: framework/vc-addon/functions.php:26
+msgid "Android Arrow Dropup Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:27
+msgid "Android Arrow Forward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:28
+msgid "Android Arrow Up"
+msgstr ""
+
+#: framework/vc-addon/functions.php:29
+msgid "Android Attach"
+msgstr ""
+
+#: framework/vc-addon/functions.php:30
+msgid "Android Bar"
+msgstr ""
+
+#: framework/vc-addon/functions.php:31
+msgid "Android Bicycle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:32
+msgid "Android Boat"
+msgstr ""
+
+#: framework/vc-addon/functions.php:33
+msgid "Android Bookmark"
+msgstr ""
+
+#: framework/vc-addon/functions.php:34
+msgid "Android Bulb"
+msgstr ""
+
+#: framework/vc-addon/functions.php:35
+msgid "Android Bus"
+msgstr ""
+
+#: framework/vc-addon/functions.php:36
+msgid "Android Calendar"
+msgstr ""
+
+#: framework/vc-addon/functions.php:37
+msgid "Android Call"
+msgstr ""
+
+#: framework/vc-addon/functions.php:38
+msgid "Android Camera"
+msgstr ""
+
+#: framework/vc-addon/functions.php:39
+msgid "Android Cancel"
+msgstr ""
+
+#: framework/vc-addon/functions.php:40
+msgid "Android Car"
+msgstr ""
+
+#: framework/vc-addon/functions.php:41
+msgid "Android Cart"
+msgstr ""
+
+#: framework/vc-addon/functions.php:42
+msgid "Android Chat"
+msgstr ""
+
+#: framework/vc-addon/functions.php:43
+msgid "Android Checkbox"
+msgstr ""
+
+#: framework/vc-addon/functions.php:44
+msgid "Android Checkbox Blank"
+msgstr ""
+
+#: framework/vc-addon/functions.php:45
+msgid "Android Checkbox Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:46
+msgid "Android Checkbox Outline Blank"
+msgstr ""
+
+#: framework/vc-addon/functions.php:47
+msgid "Android Checkmark Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:48
+msgid "Android Clipboard"
+msgstr ""
+
+#: framework/vc-addon/functions.php:49
+msgid "Android Close"
+msgstr ""
+
+#: framework/vc-addon/functions.php:50
+msgid "Android Cloud"
+msgstr ""
+
+#: framework/vc-addon/functions.php:51
+msgid "Android Cloud Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:52
+msgid "Android Cloud Done"
+msgstr ""
+
+#: framework/vc-addon/functions.php:53
+msgid "Android Cloud Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:54
+msgid "Android Color Palette"
+msgstr ""
+
+#: framework/vc-addon/functions.php:55
+msgid "Android Compass"
+msgstr ""
+
+#: framework/vc-addon/functions.php:56
+msgid "Android Contact"
+msgstr ""
+
+#: framework/vc-addon/functions.php:57
+msgid "Android Contacts"
+msgstr ""
+
+#: framework/vc-addon/functions.php:58
+msgid "Android Contract"
+msgstr ""
+
+#: framework/vc-addon/functions.php:59
+msgid "Android Create"
+msgstr ""
+
+#: framework/vc-addon/functions.php:60
+msgid "Android Delete"
+msgstr ""
+
+#: framework/vc-addon/functions.php:61
+msgid "Android Desktop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:62
+msgid "Android Document"
+msgstr ""
+
+#: framework/vc-addon/functions.php:63
+msgid "Android Done"
+msgstr ""
+
+#: framework/vc-addon/functions.php:64
+msgid "Android Done All"
+msgstr ""
+
+#: framework/vc-addon/functions.php:65
+msgid "Android Download"
+msgstr ""
+
+#: framework/vc-addon/functions.php:66
+msgid "Android Drafts"
+msgstr ""
+
+#: framework/vc-addon/functions.php:67
+msgid "Android Exit"
+msgstr ""
+
+#: framework/vc-addon/functions.php:68
+msgid "Android Expand"
+msgstr ""
+
+#: framework/vc-addon/functions.php:69
+msgid "Android Favorite"
+msgstr ""
+
+#: framework/vc-addon/functions.php:70
+msgid "Android Favorite Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:71
+msgid "Android Film"
+msgstr ""
+
+#: framework/vc-addon/functions.php:72
+msgid "Android Folder"
+msgstr ""
+
+#: framework/vc-addon/functions.php:73
+msgid "Android Folder Open"
+msgstr ""
+
+#: framework/vc-addon/functions.php:74
+msgid "Android Funnel"
+msgstr ""
+
+#: framework/vc-addon/functions.php:75
+msgid "Android Globe"
+msgstr ""
+
+#: framework/vc-addon/functions.php:76
+msgid "Android Hand"
+msgstr ""
+
+#: framework/vc-addon/functions.php:77
+msgid "Android Hangout"
+msgstr ""
+
+#: framework/vc-addon/functions.php:78
+msgid "Android Happy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:79
+msgid "Android Home"
+msgstr ""
+
+#: framework/vc-addon/functions.php:80
+msgid "Android Image"
+msgstr ""
+
+#: framework/vc-addon/functions.php:81
+msgid "Android Laptop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:82
+msgid "Android List"
+msgstr ""
+
+#: framework/vc-addon/functions.php:83
+msgid "Android Locate"
+msgstr ""
+
+#: framework/vc-addon/functions.php:84
+msgid "Android Lock"
+msgstr ""
+
+#: framework/vc-addon/functions.php:85
+msgid "Android Mail"
+msgstr ""
+
+#: framework/vc-addon/functions.php:86
+msgid "Android Map"
+msgstr ""
+
+#: framework/vc-addon/functions.php:87
+msgid "Android Menu"
+msgstr ""
+
+#: framework/vc-addon/functions.php:88
+msgid "Android Microphone"
+msgstr ""
+
+#: framework/vc-addon/functions.php:89
+msgid "Android Microphone Off"
+msgstr ""
+
+#: framework/vc-addon/functions.php:90
+msgid "Android More Horizontal"
+msgstr ""
+
+#: framework/vc-addon/functions.php:91
+msgid "Android More Vertical"
+msgstr ""
+
+#: framework/vc-addon/functions.php:92
+msgid "Android Navigate"
+msgstr ""
+
+#: framework/vc-addon/functions.php:93
+msgid "Android Notifications"
+msgstr ""
+
+#: framework/vc-addon/functions.php:94
+msgid "Android Notifications None"
+msgstr ""
+
+#: framework/vc-addon/functions.php:95
+msgid "Android Notifications Off"
+msgstr ""
+
+#: framework/vc-addon/functions.php:96
+msgid "Android Open"
+msgstr ""
+
+#: framework/vc-addon/functions.php:97
+msgid "Android Options"
+msgstr ""
+
+#: framework/vc-addon/functions.php:98
+msgid "Android People"
+msgstr ""
+
+#: framework/vc-addon/functions.php:99
+msgid "Android Person"
+msgstr ""
+
+#: framework/vc-addon/functions.php:100
+msgid "Android Person Add"
+msgstr ""
+
+#: framework/vc-addon/functions.php:101
+msgid "Android Phone Landscape"
+msgstr ""
+
+#: framework/vc-addon/functions.php:102
+msgid "Android Phone Portrait"
+msgstr ""
+
+#: framework/vc-addon/functions.php:103
+msgid "Android Pin"
+msgstr ""
+
+#: framework/vc-addon/functions.php:104
+msgid "Android Plane"
+msgstr ""
+
+#: framework/vc-addon/functions.php:105
+msgid "Android Playstore"
+msgstr ""
+
+#: framework/vc-addon/functions.php:106
+msgid "Android Print"
+msgstr ""
+
+#: framework/vc-addon/functions.php:107
+msgid "Android Radio Button Off"
+msgstr ""
+
+#: framework/vc-addon/functions.php:108
+msgid "Android Radio Button On"
+msgstr ""
+
+#: framework/vc-addon/functions.php:109
+msgid "Android Refresh"
+msgstr ""
+
+#: framework/vc-addon/functions.php:110
+msgid "Android Remove"
+msgstr ""
+
+#: framework/vc-addon/functions.php:111
+msgid "Android Remove Circle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:112
+msgid "Android Restaurant"
+msgstr ""
+
+#: framework/vc-addon/functions.php:113
+msgid "Android Sad"
+msgstr ""
+
+#: framework/vc-addon/functions.php:114
+msgid "Android Search"
+msgstr ""
+
+#: framework/vc-addon/functions.php:115
+msgid "Android Send"
+msgstr ""
+
+#: framework/vc-addon/functions.php:116
+msgid "Android Settings"
+msgstr ""
+
+#: framework/vc-addon/functions.php:117
+msgid "Android Share"
+msgstr ""
+
+#: framework/vc-addon/functions.php:118
+msgid "Android Share Alt"
+msgstr ""
+
+#: framework/vc-addon/functions.php:119
+msgid "Android Star"
+msgstr ""
+
+#: framework/vc-addon/functions.php:120
+msgid "Android Star Half"
+msgstr ""
+
+#: framework/vc-addon/functions.php:121
+msgid "Android Star Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:122
+msgid "Android Stopwatch"
+msgstr ""
+
+#: framework/vc-addon/functions.php:123
+msgid "Android Subway"
+msgstr ""
+
+#: framework/vc-addon/functions.php:124
+msgid "Android Sunny"
+msgstr ""
+
+#: framework/vc-addon/functions.php:125
+msgid "Android Sync"
+msgstr ""
+
+#: framework/vc-addon/functions.php:126
+msgid "Android Textsms"
+msgstr ""
+
+#: framework/vc-addon/functions.php:127
+msgid "Android Time"
+msgstr ""
+
+#: framework/vc-addon/functions.php:128
+msgid "Android Train"
+msgstr ""
+
+#: framework/vc-addon/functions.php:129
+msgid "Android Unlock"
+msgstr ""
+
+#: framework/vc-addon/functions.php:130
+msgid "Android Upload"
+msgstr ""
+
+#: framework/vc-addon/functions.php:131
+msgid "Android Volume Down"
+msgstr ""
+
+#: framework/vc-addon/functions.php:132
+msgid "Android Volume Mute"
+msgstr ""
+
+#: framework/vc-addon/functions.php:133
+msgid "Android Volume Off"
+msgstr ""
+
+#: framework/vc-addon/functions.php:134
+msgid "Android Volume Up"
+msgstr ""
+
+#: framework/vc-addon/functions.php:135
+msgid "Android Walk"
+msgstr ""
+
+#: framework/vc-addon/functions.php:136
+msgid "Android Warning"
+msgstr ""
+
+#: framework/vc-addon/functions.php:137
+msgid "Android Watch"
+msgstr ""
+
+#: framework/vc-addon/functions.php:138
+msgid "Android Wifi"
+msgstr ""
+
+#: framework/vc-addon/functions.php:139
+msgid "Aperture"
+msgstr ""
+
+#: framework/vc-addon/functions.php:140
+msgid "Archive"
+msgstr ""
+
+#: framework/vc-addon/functions.php:141
+msgid "Arrow Down A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:142
+msgid "Arrow Down B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:143
+msgid "Arrow Down C"
+msgstr ""
+
+#: framework/vc-addon/functions.php:144
+msgid "Arrow Expand"
+msgstr ""
+
+#: framework/vc-addon/functions.php:145
+msgid "Arrow Graph Down Left"
+msgstr ""
+
+#: framework/vc-addon/functions.php:146
+msgid "Arrow Graph Down Right"
+msgstr ""
+
+#: framework/vc-addon/functions.php:147
+msgid "Arrow Graph Up Left"
+msgstr ""
+
+#: framework/vc-addon/functions.php:148
+msgid "Arrow Graph Up Right"
+msgstr ""
+
+#: framework/vc-addon/functions.php:149
+msgid "Arrow Left A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:150
+msgid "Arrow Left B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:151
+msgid "Arrow Left C"
+msgstr ""
+
+#: framework/vc-addon/functions.php:152
+msgid "Arrow Move"
+msgstr ""
+
+#: framework/vc-addon/functions.php:153
+msgid "Arrow Resize"
+msgstr ""
+
+#: framework/vc-addon/functions.php:154
+msgid "Arrow Return Left"
+msgstr ""
+
+#: framework/vc-addon/functions.php:155
+msgid "Arrow Return Right"
+msgstr ""
+
+#: framework/vc-addon/functions.php:156
+msgid "Arrow Right A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:157
+msgid "Arrow Right B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:158
+msgid "Arrow Right C"
+msgstr ""
+
+#: framework/vc-addon/functions.php:159
+msgid "Arrow Shrink"
+msgstr ""
+
+#: framework/vc-addon/functions.php:160
+msgid "Arrow Swap"
+msgstr ""
+
+#: framework/vc-addon/functions.php:161
+msgid "Arrow Up A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:162
+msgid "Arrow Up B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:163
+msgid "Arrow Up C"
+msgstr ""
+
+#: framework/vc-addon/functions.php:164
+msgid "Asterisk"
+msgstr ""
+
+#: framework/vc-addon/functions.php:165
+msgid "At"
+msgstr ""
+
+#: framework/vc-addon/functions.php:166
+msgid "Backspace"
+msgstr ""
+
+#: framework/vc-addon/functions.php:167
+msgid "Backspace Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:168
+msgid "Bag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:169
+msgid "Battery Charging"
+msgstr ""
+
+#: framework/vc-addon/functions.php:170
+msgid "Battery Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:171
+msgid "Battery Full"
+msgstr ""
+
+#: framework/vc-addon/functions.php:172
+msgid "Battery Half"
+msgstr ""
+
+#: framework/vc-addon/functions.php:173
+msgid "Battery Low"
+msgstr ""
+
+#: framework/vc-addon/functions.php:174
+msgid "Beaker"
+msgstr ""
+
+#: framework/vc-addon/functions.php:175
+msgid "Beer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:176
+msgid "Bluetooth"
+msgstr ""
+
+#: framework/vc-addon/functions.php:177
+msgid "Bonfire"
+msgstr ""
+
+#: framework/vc-addon/functions.php:178
+msgid "Bookmark"
+msgstr ""
+
+#: framework/vc-addon/functions.php:179
+msgid "Bowtie"
+msgstr ""
+
+#: framework/vc-addon/functions.php:180
+msgid "Briefcase"
+msgstr ""
+
+#: framework/vc-addon/functions.php:181
+msgid "Bug"
+msgstr ""
+
+#: framework/vc-addon/functions.php:182
+msgid "Calculator"
+msgstr ""
+
+#: framework/vc-addon/functions.php:183
+msgid "Calendar"
+msgstr ""
+
+#: framework/vc-addon/functions.php:184
+msgid "Camera"
+msgstr ""
+
+#: framework/vc-addon/functions.php:185
+msgid "Card"
+msgstr ""
+
+#: framework/vc-addon/functions.php:186
+msgid "Cash"
+msgstr ""
+
+#: framework/vc-addon/functions.php:187
+msgid "Chatbox"
+msgstr ""
+
+#: framework/vc-addon/functions.php:188
+msgid "Chatbox Working"
+msgstr ""
+
+#: framework/vc-addon/functions.php:189
+msgid "Chatboxes"
+msgstr ""
+
+#: framework/vc-addon/functions.php:190
+msgid "Chatbubble"
+msgstr ""
+
+#: framework/vc-addon/functions.php:191
+msgid "Chatbubble Working"
+msgstr ""
+
+#: framework/vc-addon/functions.php:192
+msgid "Chatbubbles"
+msgstr ""
+
+#: framework/vc-addon/functions.php:193
+msgid "Checkmark"
+msgstr ""
+
+#: framework/vc-addon/functions.php:194
+msgid "Checkmark Circled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:195
+msgid "Checkmark Round"
+msgstr ""
+
+#: framework/vc-addon/functions.php:196
+msgid "Chevron Down"
+msgstr ""
+
+#: framework/vc-addon/functions.php:197
+msgid "Chevron Left"
+msgstr ""
+
+#: framework/vc-addon/functions.php:198
+msgid "Chevron Right"
+msgstr ""
+
+#: framework/vc-addon/functions.php:199
+msgid "Chevron Up"
+msgstr ""
+
+#: framework/vc-addon/functions.php:200
+msgid "Clipboard"
+msgstr ""
+
+#: framework/vc-addon/functions.php:201
+msgid "Clock"
+msgstr ""
+
+#: framework/vc-addon/functions.php:202
+msgid "Close"
+msgstr ""
+
+#: framework/vc-addon/functions.php:203
+msgid "Close Circled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:204
+msgid "Close Round"
+msgstr ""
+
+#: framework/vc-addon/functions.php:205
+msgid "Closed Captioning"
+msgstr ""
+
+#: framework/vc-addon/functions.php:206
+msgid "Cloud"
+msgstr ""
+
+#: framework/vc-addon/functions.php:207
+msgid "Code"
+msgstr ""
+
+#: framework/vc-addon/functions.php:208
+msgid "Code Download"
+msgstr ""
+
+#: framework/vc-addon/functions.php:209
+msgid "Code Working"
+msgstr ""
+
+#: framework/vc-addon/functions.php:210
+msgid "Coffee"
+msgstr ""
+
+#: framework/vc-addon/functions.php:211
+msgid "Compass"
+msgstr ""
+
+#: framework/vc-addon/functions.php:212
+msgid "Compose"
+msgstr ""
+
+#: framework/vc-addon/functions.php:213
+msgid "Connection Bars"
+msgstr ""
+
+#: framework/vc-addon/functions.php:214
+msgid "Contrast"
+msgstr ""
+
+#: framework/vc-addon/functions.php:215
+msgid "Crop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:216
+msgid "Cube"
+msgstr ""
+
+#: framework/vc-addon/functions.php:217
+msgid "Disc"
+msgstr ""
+
+#: framework/vc-addon/functions.php:218
+msgid "Document"
+msgstr ""
+
+#: framework/vc-addon/functions.php:219
+msgid "Doucment Text"
+msgstr ""
+
+#: framework/vc-addon/functions.php:220
+msgid "Drag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:221
+msgid "Earth"
+msgstr ""
+
+#: framework/vc-addon/functions.php:222
+msgid "Easel"
+msgstr ""
+
+#: framework/vc-addon/functions.php:223
+msgid "Edit"
+msgstr ""
+
+#: framework/vc-addon/functions.php:224
+msgid "Egg"
+msgstr ""
+
+#: framework/vc-addon/functions.php:225
+msgid "Eject"
+msgstr ""
+
+#: framework/vc-addon/functions.php:226
+msgid "Email"
+msgstr ""
+
+#: framework/vc-addon/functions.php:227
+msgid "Email Unread"
+msgstr ""
+
+#: framework/vc-addon/functions.php:228
+msgid "Erlenmeyer Flask"
+msgstr ""
+
+#: framework/vc-addon/functions.php:229
+msgid "Erlenmeyer Flask Bubbles"
+msgstr ""
+
+#: framework/vc-addon/functions.php:230
+msgid "Eye"
+msgstr ""
+
+#: framework/vc-addon/functions.php:231
+msgid "Eye Disabled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:232
+msgid "Female"
+msgstr ""
+
+#: framework/vc-addon/functions.php:233
+msgid "Filing"
+msgstr ""
+
+#: framework/vc-addon/functions.php:234
+msgid "Film Marker"
+msgstr ""
+
+#: framework/vc-addon/functions.php:235
+msgid "Fireball "
+msgstr ""
+
+#: framework/vc-addon/functions.php:236
+msgid "Flag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:237
+msgid "Flame"
+msgstr ""
+
+#: framework/vc-addon/functions.php:238
+msgid "Flash"
+msgstr ""
+
+#: framework/vc-addon/functions.php:239
+msgid "Flash Off"
+msgstr ""
+
+#: framework/vc-addon/functions.php:240
+msgid "Folder"
+msgstr ""
+
+#: framework/vc-addon/functions.php:241
+msgid "Fork"
+msgstr ""
+
+#: framework/vc-addon/functions.php:242
+msgid "Fork Repo"
+msgstr ""
+
+#: framework/vc-addon/functions.php:243
+msgid "Forward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:244
+msgid "Funnel"
+msgstr ""
+
+#: framework/vc-addon/functions.php:245
+msgid "Gear A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:246
+msgid "Gear B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:247
+#: framework/vc-addon/shortcodes/address_block.php:163
+msgid "Grid"
+msgstr ""
+
+#: framework/vc-addon/functions.php:248
+msgid "Hammer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:249
+msgid "Happy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:250
+msgid "Happy Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:251
+msgid "Headphone"
+msgstr ""
+
+#: framework/vc-addon/functions.php:252
+msgid "Heart"
+msgstr ""
+
+#: framework/vc-addon/functions.php:253
+msgid "Heart Broken"
+msgstr ""
+
+#: framework/vc-addon/functions.php:254
+msgid "Help"
+msgstr ""
+
+#: framework/vc-addon/functions.php:255
+msgid "Help Buoy "
+msgstr ""
+
+#: framework/vc-addon/functions.php:256
+msgid "Help Circled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:257
+msgid "Home"
+msgstr ""
+
+#: framework/vc-addon/functions.php:258
+msgid "Icecream "
+msgstr ""
+
+#: framework/vc-addon/functions.php:260
+msgid "Images "
+msgstr ""
+
+#: framework/vc-addon/functions.php:261
+msgid "Information"
+msgstr ""
+
+#: framework/vc-addon/functions.php:262
+msgid "Information Circled "
+msgstr ""
+
+#: framework/vc-addon/functions.php:263
+msgid "Ionic"
+msgstr ""
+
+#: framework/vc-addon/functions.php:264
+msgid "Ios Alarm"
+msgstr ""
+
+#: framework/vc-addon/functions.php:265
+msgid "Ios Alarm Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:266
+msgid "Ios Albums"
+msgstr ""
+
+#: framework/vc-addon/functions.php:267
+msgid "Ios Albums Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:268
+msgid "Ios American Football"
+msgstr ""
+
+#: framework/vc-addon/functions.php:269
+msgid "Ios American Football Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:270
+msgid "Ios Analytics"
+msgstr ""
+
+#: framework/vc-addon/functions.php:271
+msgid "Ios Analytics Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:272
+msgid "Ios Arrow Back"
+msgstr ""
+
+#: framework/vc-addon/functions.php:273
+msgid "Ios Arrow Down"
+msgstr ""
+
+#: framework/vc-addon/functions.php:274
+msgid "Ios Arrow Forward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:275
+msgid "Ios Arrow Left"
+msgstr ""
+
+#: framework/vc-addon/functions.php:276
+msgid "Ios Arrow Right"
+msgstr ""
+
+#: framework/vc-addon/functions.php:277
+msgid "Ios Arrow Thin Down"
+msgstr ""
+
+#: framework/vc-addon/functions.php:278
+msgid "Ios Arrow Thin Left"
+msgstr ""
+
+#: framework/vc-addon/functions.php:279
+msgid "Ios Arrow Thin Right"
+msgstr ""
+
+#: framework/vc-addon/functions.php:280
+msgid "Ios Arrow Thin Up"
+msgstr ""
+
+#: framework/vc-addon/functions.php:281
+msgid "Ios Arrow Up"
+msgstr ""
+
+#: framework/vc-addon/functions.php:282
+msgid "Ios At"
+msgstr ""
+
+#: framework/vc-addon/functions.php:283
+msgid "Ios At Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:284
+msgid "Ios Barcode"
+msgstr ""
+
+#: framework/vc-addon/functions.php:285
+msgid "Ios Barcode Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:286
+msgid "Ios Baseball"
+msgstr ""
+
+#: framework/vc-addon/functions.php:287
+msgid "Ios Baseball Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:288
+msgid "Ios Basketball"
+msgstr ""
+
+#: framework/vc-addon/functions.php:289
+msgid "Ios Basketball Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:290
+msgid "Ios Bell"
+msgstr ""
+
+#: framework/vc-addon/functions.php:291
+msgid "Ios Bell Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:292
+msgid "Ios Body"
+msgstr ""
+
+#: framework/vc-addon/functions.php:293
+msgid "Ios Body Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:294
+msgid "Ios Blot"
+msgstr ""
+
+#: framework/vc-addon/functions.php:295
+msgid "Ios Bolt Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:296
+msgid "Ios Book"
+msgstr ""
+
+#: framework/vc-addon/functions.php:297
+msgid "Ios Book Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:298
+msgid "Ios Bookmarks"
+msgstr ""
+
+#: framework/vc-addon/functions.php:299
+msgid "Ios Bookmarks Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:300
+msgid "Ios Box"
+msgstr ""
+
+#: framework/vc-addon/functions.php:301
+msgid "Ios Box Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:302
+msgid "Ios Briefcase"
+msgstr ""
+
+#: framework/vc-addon/functions.php:303
+msgid "Ios Briefcase Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:304
+msgid "Ios Browsers"
+msgstr ""
+
+#: framework/vc-addon/functions.php:305
+msgid "Ios Browsers Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:306
+msgid "Ios Calculator"
+msgstr ""
+
+#: framework/vc-addon/functions.php:307
+msgid "Ios Calculator Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:308
+msgid "Ios Calendar"
+msgstr ""
+
+#: framework/vc-addon/functions.php:309
+msgid "Ios Calendar Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:310
+msgid "Ios Camera"
+msgstr ""
+
+#: framework/vc-addon/functions.php:311
+msgid "Ios Camera Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:312
+msgid "Ios Cart"
+msgstr ""
+
+#: framework/vc-addon/functions.php:313
+msgid "Ios Cart Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:314
+msgid "Ios Chatboxes"
+msgstr ""
+
+#: framework/vc-addon/functions.php:315
+msgid "Ios Chatboxes Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:316
+msgid "Ios Chatbubble"
+msgstr ""
+
+#: framework/vc-addon/functions.php:317
+msgid "Ios Chatbubble Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:318
+msgid "Ios Checkmark"
+msgstr ""
+
+#: framework/vc-addon/functions.php:319
+msgid "Ios Checkmark Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:320
+msgid "Ios Checkmark Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:321
+msgid "Ios Circle Filled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:322
+msgid "Ios Circle Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:323
+msgid "Ios Clock"
+msgstr ""
+
+#: framework/vc-addon/functions.php:324
+msgid "Ios Clock Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:325
+msgid "Ios Close"
+msgstr ""
+
+#: framework/vc-addon/functions.php:326
+msgid "Ios Close Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:327
+msgid "Ios Close Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:328
+msgid "Ios Cloud"
+msgstr ""
+
+#: framework/vc-addon/functions.php:329
+msgid "Ios Cloud Download"
+msgstr ""
+
+#: framework/vc-addon/functions.php:330
+msgid "Ios Cloud Download Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:331
+msgid "Ios Cloud Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:332
+msgid "Ios Cloud Upload"
+msgstr ""
+
+#: framework/vc-addon/functions.php:333
+msgid "Ios Cloud Upload Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:334
+msgid "Ios Cloudy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:335
+msgid "Ios Cloudy Night"
+msgstr ""
+
+#: framework/vc-addon/functions.php:336
+msgid "Ios Cloudy Night Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:337
+msgid "Ios Cloudy Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:338
+msgid "Ios Cog"
+msgstr ""
+
+#: framework/vc-addon/functions.php:339
+msgid "Ios Cog Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:340
+msgid "Ios Color Filter"
+msgstr ""
+
+#: framework/vc-addon/functions.php:341
+msgid "Ios Color Filter Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:342
+msgid "Ios Color Wand"
+msgstr ""
+
+#: framework/vc-addon/functions.php:343
+msgid "Ios Color Wand Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:344
+msgid "Ios Compose"
+msgstr ""
+
+#: framework/vc-addon/functions.php:345
+msgid "Ios Compose Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:346
+msgid "Ios Contact"
+msgstr ""
+
+#: framework/vc-addon/functions.php:347
+msgid "Ios Contact Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:348
+msgid "Ios Copy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:349
+msgid "Ios Copy Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:350
+msgid "Ios Crop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:351
+msgid "Ios Crop Strong"
+msgstr ""
+
+#: framework/vc-addon/functions.php:352
+msgid "Ios Download"
+msgstr ""
+
+#: framework/vc-addon/functions.php:353
+msgid "Ios Download Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:354
+msgid "Ios Drag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:355
+msgid "Ios Email"
+msgstr ""
+
+#: framework/vc-addon/functions.php:356
+msgid "Ios Email Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:357
+msgid "Ios Eye"
+msgstr ""
+
+#: framework/vc-addon/functions.php:358
+msgid "Ios Eye Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:359
+msgid "Ios Fastforward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:360
+msgid "Ios Fastforward Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:361
+msgid "Ios Filing"
+msgstr ""
+
+#: framework/vc-addon/functions.php:362
+msgid "Ios Filing Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:363
+msgid "Ios Film"
+msgstr ""
+
+#: framework/vc-addon/functions.php:364
+msgid "Ios Film Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:365
+msgid "Ios Flag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:366
+msgid "Ios Flag Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:367
+msgid "Ios Flame"
+msgstr ""
+
+#: framework/vc-addon/functions.php:368
+msgid "Ios Flame Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:369
+msgid "Ios Flask"
+msgstr ""
+
+#: framework/vc-addon/functions.php:370
+msgid "Ios Flask Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:371
+msgid "Ios Flower"
+msgstr ""
+
+#: framework/vc-addon/functions.php:372
+msgid "Ios Flower Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:373
+msgid "Ios Folder"
+msgstr ""
+
+#: framework/vc-addon/functions.php:374
+msgid "Ios Folder Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:375
+msgid "Ios Football"
+msgstr ""
+
+#: framework/vc-addon/functions.php:376
+msgid "Ios Football Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:377
+msgid "Ios Game Controller A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:378
+msgid "Ios Game Controller A Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:379
+msgid "Ios Game Controller B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:380
+msgid "Ios Game Controller B Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:381
+msgid "Ios Gear"
+msgstr ""
+
+#: framework/vc-addon/functions.php:382
+msgid "Ios Gear Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:383
+msgid "Ios Glasses"
+msgstr ""
+
+#: framework/vc-addon/functions.php:384
+msgid "Ios Glasses Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:385
+msgid "Ios Grid View"
+msgstr ""
+
+#: framework/vc-addon/functions.php:386
+msgid "Ios Grid View Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:387
+msgid "Ios Heart"
+msgstr ""
+
+#: framework/vc-addon/functions.php:388
+msgid "Ios Heart Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:389
+msgid "Ios Help"
+msgstr ""
+
+#: framework/vc-addon/functions.php:390
+msgid "Ios Help Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:391
+msgid "Ios Help Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:392
+msgid "Ios Home"
+msgstr ""
+
+#: framework/vc-addon/functions.php:393
+msgid "Ios Home Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:394
+msgid "Ios Infinite"
+msgstr ""
+
+#: framework/vc-addon/functions.php:395
+msgid "Ios Infinite Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:396
+msgid "Ios Information"
+msgstr ""
+
+#: framework/vc-addon/functions.php:397
+msgid "Ios Information Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:398
+msgid "Ios Information Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:399
+msgid "Ios Ionic Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:400
+msgid "Ios Keypad"
+msgstr ""
+
+#: framework/vc-addon/functions.php:401
+msgid "Ios Keypad Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:402
+msgid "Ios Lightbulb"
+msgstr ""
+
+#: framework/vc-addon/functions.php:403
+msgid "Ios Lightbulb Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:404
+msgid "Ios List"
+msgstr ""
+
+#: framework/vc-addon/functions.php:405
+msgid "Ios List Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:406
+msgid "Ios Location"
+msgstr ""
+
+#: framework/vc-addon/functions.php:407
+msgid "Ios Location Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:408
+msgid "Ios Locked"
+msgstr ""
+
+#: framework/vc-addon/functions.php:409
+msgid "Ios Locked Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:410
+msgid "Ios Loop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:411
+msgid "Ios Loop Strong"
+msgstr ""
+
+#: framework/vc-addon/functions.php:412
+msgid "Ios Medical"
+msgstr ""
+
+#: framework/vc-addon/functions.php:413
+msgid "Ios Medical Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:414
+msgid "Ios Medkit"
+msgstr ""
+
+#: framework/vc-addon/functions.php:415
+msgid "Ios Medkit Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:416
+msgid "Ios Mic"
+msgstr ""
+
+#: framework/vc-addon/functions.php:417
+msgid "Ios Mic Off"
+msgstr ""
+
+#: framework/vc-addon/functions.php:418
+msgid "Ios Mic Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:419
+msgid "Ios Minus"
+msgstr ""
+
+#: framework/vc-addon/functions.php:420
+msgid "Ios Minus Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:421
+msgid "Ios Minus Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:422
+msgid "Ios Monitor"
+msgstr ""
+
+#: framework/vc-addon/functions.php:423
+msgid "Ios Monitor Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:424
+msgid "Ios Moon"
+msgstr ""
+
+#: framework/vc-addon/functions.php:425
+msgid "Ios Moon Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:426
+msgid "Ios More"
+msgstr ""
+
+#: framework/vc-addon/functions.php:427
+msgid "Ios More Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:428
+msgid "Ios Musical Note"
+msgstr ""
+
+#: framework/vc-addon/functions.php:429
+msgid "Ios Musical Notes"
+msgstr ""
+
+#: framework/vc-addon/functions.php:430
+msgid "Ios Navigate"
+msgstr ""
+
+#: framework/vc-addon/functions.php:431
+msgid "Ios Navigate Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:432
+msgid "Ios Nutrition"
+msgstr ""
+
+#: framework/vc-addon/functions.php:433
+msgid "Ios Nutrition Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:434
+msgid "Ios Paper"
+msgstr ""
+
+#: framework/vc-addon/functions.php:435
+msgid "Ios Paper Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:436
+msgid "Ios Paperplane"
+msgstr ""
+
+#: framework/vc-addon/functions.php:437
+msgid "Ios Paperplane Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:438
+msgid "Ios Partlysunny"
+msgstr ""
+
+#: framework/vc-addon/functions.php:439
+msgid "Ios Partlysunny Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:440
+msgid "Ios Pause"
+msgstr ""
+
+#: framework/vc-addon/functions.php:441
+msgid "Ios Pause Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:442
+msgid "Ios Paw"
+msgstr ""
+
+#: framework/vc-addon/functions.php:443
+msgid "Ios Paw Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:444
+msgid "Ios People"
+msgstr ""
+
+#: framework/vc-addon/functions.php:445
+msgid "Ios People Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:446
+msgid "Ios Person"
+msgstr ""
+
+#: framework/vc-addon/functions.php:447
+msgid "Ios Person Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:448
+msgid "Ios Personadd"
+msgstr ""
+
+#: framework/vc-addon/functions.php:449
+msgid "Ios Personadd Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:450
+msgid "Ios Photos"
+msgstr ""
+
+#: framework/vc-addon/functions.php:451
+msgid "Ios Photos Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:452
+msgid "Ios Pie"
+msgstr ""
+
+#: framework/vc-addon/functions.php:453
+msgid "Ios Pie Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:454
+msgid "Ios Pint"
+msgstr ""
+
+#: framework/vc-addon/functions.php:455
+msgid "Ios Pint Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:456
+msgid "Ios Play"
+msgstr ""
+
+#: framework/vc-addon/functions.php:457
+msgid "Ios Play Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:458
+msgid "Ios Plus"
+msgstr ""
+
+#: framework/vc-addon/functions.php:459
+msgid "Ios Plus Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:460
+msgid "Ios Plus Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:461
+msgid "Ios Pricetag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:462
+msgid "Ios Pricetag Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:463
+msgid "Ios Pricetags"
+msgstr ""
+
+#: framework/vc-addon/functions.php:464
+msgid "Ios Pricetags Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:465
+msgid "Ios Printer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:466
+msgid "Ios Printer Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:467
+msgid "Ios Pulse"
+msgstr ""
+
+#: framework/vc-addon/functions.php:468
+msgid "Ios Pulse Strong"
+msgstr ""
+
+#: framework/vc-addon/functions.php:469
+msgid "Ios Rainy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:470
+msgid "Ios Rainy Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:471
+msgid "Ios Recording"
+msgstr ""
+
+#: framework/vc-addon/functions.php:472
+msgid "Ios Recording Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:473
+msgid "Ios Redo"
+msgstr ""
+
+#: framework/vc-addon/functions.php:474
+msgid "Ios Redo Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:475
+msgid "Ios Refresh"
+msgstr ""
+
+#: framework/vc-addon/functions.php:476
+msgid "Ios Refresh Empty"
+msgstr ""
+
+#: framework/vc-addon/functions.php:477
+msgid "Ios Refresh Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:478
+msgid "Ios Reload"
+msgstr ""
+
+#: framework/vc-addon/functions.php:479
+msgid "Ios Reverse Camera"
+msgstr ""
+
+#: framework/vc-addon/functions.php:480
+msgid "Ios Reverse Camera Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:481
+msgid "Ios Rewind"
+msgstr ""
+
+#: framework/vc-addon/functions.php:482
+msgid "Ios Rewind Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:483
+msgid "Ios Rose"
+msgstr ""
+
+#: framework/vc-addon/functions.php:484
+msgid "Ios Rose Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:485
+msgid "Ios Search"
+msgstr ""
+
+#: framework/vc-addon/functions.php:486
+msgid "Ios Search Strong"
+msgstr ""
+
+#: framework/vc-addon/functions.php:487
+msgid "Ios Settings"
+msgstr ""
+
+#: framework/vc-addon/functions.php:488
+msgid "Ios Settings Strong"
+msgstr ""
+
+#: framework/vc-addon/functions.php:489
+msgid "Ios Shuffle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:490
+msgid "Ios Shuffle Strong"
+msgstr ""
+
+#: framework/vc-addon/functions.php:491
+msgid "Ios Skipbackward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:492
+msgid "Ios Skipbackward Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:493
+msgid "Ios Skipforward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:494
+msgid "Ios Skipforward Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:495
+msgid "Ios Snowy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:496
+msgid "Ios Speedometer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:497
+msgid "Ios Speedometer Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:498
+msgid "Ios Star"
+msgstr ""
+
+#: framework/vc-addon/functions.php:499
+msgid "Ios Star Half"
+msgstr ""
+
+#: framework/vc-addon/functions.php:500
+msgid "Ios Star Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:501
+msgid "Ios Stopwatch"
+msgstr ""
+
+#: framework/vc-addon/functions.php:502
+msgid "Ios Stopwatch Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:503
+msgid "Ios Sunny"
+msgstr ""
+
+#: framework/vc-addon/functions.php:504
+msgid "Ios Sunny Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:505
+msgid "Ios Telephone"
+msgstr ""
+
+#: framework/vc-addon/functions.php:506
+msgid "Ios Telephone Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:507
+msgid "Ios Tennisball"
+msgstr ""
+
+#: framework/vc-addon/functions.php:508
+msgid "Ios Tennisball Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:509
+msgid "Ios Thunderstorm"
+msgstr ""
+
+#: framework/vc-addon/functions.php:510
+msgid "Ios Thunderstorm Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:511
+msgid "Ios Time"
+msgstr ""
+
+#: framework/vc-addon/functions.php:512
+msgid "Ios Time Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:513
+msgid "Ios Timer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:514
+msgid "Ios Timer Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:515
+msgid "Ios Toggle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:516
+msgid "Ios Toggle Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:517
+msgid "Ios Trash"
+msgstr ""
+
+#: framework/vc-addon/functions.php:518
+msgid "Ios Trash Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:519
+msgid "Ios Undo"
+msgstr ""
+
+#: framework/vc-addon/functions.php:520
+msgid "Ios Undo Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:521
+msgid "Ios Unlocked"
+msgstr ""
+
+#: framework/vc-addon/functions.php:522
+msgid "Ios Unlocked Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:523
+msgid "Ios Upload"
+msgstr ""
+
+#: framework/vc-addon/functions.php:524
+msgid "Ios Upload Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:525
+msgid "Ios Videocam"
+msgstr ""
+
+#: framework/vc-addon/functions.php:526
+msgid "Ios Videocam Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:527
+msgid "Ios Volume High"
+msgstr ""
+
+#: framework/vc-addon/functions.php:528
+msgid "Ios Volume Low"
+msgstr ""
+
+#: framework/vc-addon/functions.php:529
+msgid "Ios Wineglass"
+msgstr ""
+
+#: framework/vc-addon/functions.php:530
+msgid "Ios Wineglass Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:531
+msgid "Ios World"
+msgstr ""
+
+#: framework/vc-addon/functions.php:532
+msgid "Ios World Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:533
+msgid "Ipad"
+msgstr ""
+
+#: framework/vc-addon/functions.php:534
+msgid "Iphone"
+msgstr ""
+
+#: framework/vc-addon/functions.php:535
+msgid "Ipod"
+msgstr ""
+
+#: framework/vc-addon/functions.php:536
+msgid "Jet"
+msgstr ""
+
+#: framework/vc-addon/functions.php:537
+msgid "Key"
+msgstr ""
+
+#: framework/vc-addon/functions.php:538
+msgid "Knife"
+msgstr ""
+
+#: framework/vc-addon/functions.php:539
+msgid "Laptop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:540
+msgid "Leaf"
+msgstr ""
+
+#: framework/vc-addon/functions.php:541
+msgid "Levels"
+msgstr ""
+
+#: framework/vc-addon/functions.php:542
+msgid "Lightbulb"
+msgstr ""
+
+#: framework/vc-addon/functions.php:544
+msgid "Load A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:545
+msgid "Load B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:546
+msgid "Load C"
+msgstr ""
+
+#: framework/vc-addon/functions.php:547
+msgid "Load D"
+msgstr ""
+
+#: framework/vc-addon/functions.php:548
+msgid "Location"
+msgstr ""
+
+#: framework/vc-addon/functions.php:549
+msgid "Lock Combination"
+msgstr ""
+
+#: framework/vc-addon/functions.php:550
+msgid "Locked"
+msgstr ""
+
+#: framework/vc-addon/functions.php:551
+msgid "Log In"
+msgstr ""
+
+#: framework/vc-addon/functions.php:552
+msgid "Log Out"
+msgstr ""
+
+#: framework/vc-addon/functions.php:553
+msgid "Loop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:554
+msgid "Magnet"
+msgstr ""
+
+#: framework/vc-addon/functions.php:555
+msgid "Male"
+msgstr ""
+
+#: framework/vc-addon/functions.php:556
+msgid "Man"
+msgstr ""
+
+#: framework/vc-addon/functions.php:557
+msgid "Map"
+msgstr ""
+
+#: framework/vc-addon/functions.php:558
+msgid "Medkit"
+msgstr ""
+
+#: framework/vc-addon/functions.php:559
+msgid "Merge"
+msgstr ""
+
+#: framework/vc-addon/functions.php:560
+msgid "Misc A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:561
+msgid "Misc B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:562
+msgid "Misc C"
+msgstr ""
+
+#: framework/vc-addon/functions.php:563
+msgid "Minus"
+msgstr ""
+
+#: framework/vc-addon/functions.php:564
+msgid "Minus Circled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:565
+msgid "Minus Round"
+msgstr ""
+
+#: framework/vc-addon/functions.php:566
+msgid "Model S"
+msgstr ""
+
+#: framework/vc-addon/functions.php:567
+msgid "Monitor"
+msgstr ""
+
+#: framework/vc-addon/functions.php:568
+msgid "More"
+msgstr ""
+
+#: framework/vc-addon/functions.php:569
+msgid "Mouse"
+msgstr ""
+
+#: framework/vc-addon/functions.php:570
+msgid "Music Note"
+msgstr ""
+
+#: framework/vc-addon/functions.php:571
+msgid "Navicon"
+msgstr ""
+
+#: framework/vc-addon/functions.php:572
+msgid "Navicon Round"
+msgstr ""
+
+#: framework/vc-addon/functions.php:573
+msgid "Navigate"
+msgstr ""
+
+#: framework/vc-addon/functions.php:574
+msgid "Network"
+msgstr ""
+
+#: framework/vc-addon/functions.php:575
+msgid "No Smoking"
+msgstr ""
+
+#: framework/vc-addon/functions.php:576
+msgid "Nuclear"
+msgstr ""
+
+#: framework/vc-addon/functions.php:577
+msgid "Outlet"
+msgstr ""
+
+#: framework/vc-addon/functions.php:578
+msgid "Paintbrush"
+msgstr ""
+
+#: framework/vc-addon/functions.php:579
+msgid "Paintbucket"
+msgstr ""
+
+#: framework/vc-addon/functions.php:580
+msgid "Paper Airplane"
+msgstr ""
+
+#: framework/vc-addon/functions.php:581
+msgid "Paperclip"
+msgstr ""
+
+#: framework/vc-addon/functions.php:582
+msgid "Pause"
+msgstr ""
+
+#: framework/vc-addon/functions.php:583
+msgid "Person"
+msgstr ""
+
+#: framework/vc-addon/functions.php:584
+msgid "Person Add"
+msgstr ""
+
+#: framework/vc-addon/functions.php:585
+msgid "Person Stalker"
+msgstr ""
+
+#: framework/vc-addon/functions.php:586
+msgid "Pie Graph"
+msgstr ""
+
+#: framework/vc-addon/functions.php:587
+msgid "Pin"
+msgstr ""
+
+#: framework/vc-addon/functions.php:588
+msgid "Pinpoint"
+msgstr ""
+
+#: framework/vc-addon/functions.php:589
+msgid "Pizza"
+msgstr ""
+
+#: framework/vc-addon/functions.php:590
+msgid "Plane"
+msgstr ""
+
+#: framework/vc-addon/functions.php:591
+msgid "Planet"
+msgstr ""
+
+#: framework/vc-addon/functions.php:592
+msgid "Play"
+msgstr ""
+
+#: framework/vc-addon/functions.php:593
+msgid "Playstation"
+msgstr ""
+
+#: framework/vc-addon/functions.php:594
+msgid "Plus"
+msgstr ""
+
+#: framework/vc-addon/functions.php:595
+msgid "Plus Circled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:596
+msgid "Plus Round"
+msgstr ""
+
+#: framework/vc-addon/functions.php:597
+msgid "Podium"
+msgstr ""
+
+#: framework/vc-addon/functions.php:598
+msgid "Pound"
+msgstr ""
+
+#: framework/vc-addon/functions.php:599
+msgid "Power"
+msgstr ""
+
+#: framework/vc-addon/functions.php:600
+msgid "Pricetag"
+msgstr ""
+
+#: framework/vc-addon/functions.php:601
+msgid "Pricetags"
+msgstr ""
+
+#: framework/vc-addon/functions.php:602
+msgid "Printer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:603
+msgid "Pull Request"
+msgstr ""
+
+#: framework/vc-addon/functions.php:604
+msgid "Qr Scanner"
+msgstr ""
+
+#: framework/vc-addon/functions.php:605
+msgid "Quote"
+msgstr ""
+
+#: framework/vc-addon/functions.php:606
+msgid "Radio Waves"
+msgstr ""
+
+#: framework/vc-addon/functions.php:607
+msgid "Record"
+msgstr ""
+
+#: framework/vc-addon/functions.php:608
+msgid "Refresh"
+msgstr ""
+
+#: framework/vc-addon/functions.php:609
+msgid "Reply"
+msgstr ""
+
+#: framework/vc-addon/functions.php:610
+msgid "Reply All"
+msgstr ""
+
+#: framework/vc-addon/functions.php:611
+msgid "Ribbon A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:612
+msgid "Ribbon B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:613
+msgid "Sad"
+msgstr ""
+
+#: framework/vc-addon/functions.php:614
+msgid "Sad Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:615
+msgid "Scissors"
+msgstr ""
+
+#: framework/vc-addon/functions.php:616 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: framework/vc-addon/functions.php:617
+msgid "Settings"
+msgstr ""
+
+#: framework/vc-addon/functions.php:618
+msgid "Share"
+msgstr ""
+
+#: framework/vc-addon/functions.php:619
+msgid "Shuffle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:620
+msgid "Skip Backward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:621
+msgid "Skip Forward"
+msgstr ""
+
+#: framework/vc-addon/functions.php:622
+msgid "Social Android"
+msgstr ""
+
+#: framework/vc-addon/functions.php:623
+msgid "Social Android Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:624
+msgid "Social Angular"
+msgstr ""
+
+#: framework/vc-addon/functions.php:625
+msgid "Social Angular Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:626
+msgid "Social Apple"
+msgstr ""
+
+#: framework/vc-addon/functions.php:627
+msgid "Social Apple Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:628
+msgid "Social Bitcoin"
+msgstr ""
+
+#: framework/vc-addon/functions.php:629
+msgid "Social Bitcoin Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:630
+msgid "Social Buffer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:631
+msgid "Social Buffer Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:632
+msgid "Social Chrome"
+msgstr ""
+
+#: framework/vc-addon/functions.php:633
+msgid "Social Chrome Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:634
+msgid "Social Codepen"
+msgstr ""
+
+#: framework/vc-addon/functions.php:635
+msgid "Social Codepen Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:636
+msgid "Social CSS3"
+msgstr ""
+
+#: framework/vc-addon/functions.php:637
+msgid "Social CSS3 Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:638
+msgid "Social Designernews"
+msgstr ""
+
+#: framework/vc-addon/functions.php:639
+msgid "Social Designernews Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:640
+msgid "Social Dribble"
+msgstr ""
+
+#: framework/vc-addon/functions.php:641
+msgid "Social Dribble Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:642
+msgid "Social Dropbox"
+msgstr ""
+
+#: framework/vc-addon/functions.php:643
+msgid "Social Dropbox Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:644
+msgid "Social Euro"
+msgstr ""
+
+#: framework/vc-addon/functions.php:645
+msgid "Social Euro Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:646
+msgid "Social Facebook"
+msgstr ""
+
+#: framework/vc-addon/functions.php:647
+msgid "Social Facebook Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:648
+msgid "Social Foursquare"
+msgstr ""
+
+#: framework/vc-addon/functions.php:649
+msgid "Social Foursquare Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:650
+msgid "Social Freebsd Devil"
+msgstr ""
+
+#: framework/vc-addon/functions.php:651
+msgid "Social Github"
+msgstr ""
+
+#: framework/vc-addon/functions.php:652
+msgid "Social Github Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:653
+msgid "Social Google"
+msgstr ""
+
+#: framework/vc-addon/functions.php:654
+msgid "Social Google Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:655
+msgid "Social Googleplus"
+msgstr ""
+
+#: framework/vc-addon/functions.php:656
+msgid "Social Googleplus Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:657
+msgid "Social Hackernews"
+msgstr ""
+
+#: framework/vc-addon/functions.php:658
+msgid "Social Hacckernews Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:659
+msgid "Social Html5"
+msgstr ""
+
+#: framework/vc-addon/functions.php:660
+msgid "Social Html5 Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:661
+msgid "Social Instagram"
+msgstr ""
+
+#: framework/vc-addon/functions.php:662
+msgid "Social Instagram Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:663
+msgid "Social Javascript"
+msgstr ""
+
+#: framework/vc-addon/functions.php:664
+msgid "Social Javascript Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:665
+msgid "Social Linkedin"
+msgstr ""
+
+#: framework/vc-addon/functions.php:666
+msgid "Social Linkedin Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:667
+msgid "Social Markdown"
+msgstr ""
+
+#: framework/vc-addon/functions.php:668
+msgid "Social Nodejs"
+msgstr ""
+
+#: framework/vc-addon/functions.php:669
+msgid "Social octocat"
+msgstr ""
+
+#: framework/vc-addon/functions.php:670
+msgid "Social Pinterest"
+msgstr ""
+
+#: framework/vc-addon/functions.php:671
+msgid "Social Pinterest Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:672
+msgid "Social Python"
+msgstr ""
+
+#: framework/vc-addon/functions.php:673
+msgid "Social Reddit"
+msgstr ""
+
+#: framework/vc-addon/functions.php:674
+msgid "Social Reddit Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:675
+msgid "Social RSS"
+msgstr ""
+
+#: framework/vc-addon/functions.php:676
+msgid "Social RSS Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:677
+msgid "Social SASS"
+msgstr ""
+
+#: framework/vc-addon/functions.php:678
+msgid "Social Skype"
+msgstr ""
+
+#: framework/vc-addon/functions.php:679
+msgid "Social Skype Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:680
+msgid "Social Snapchat"
+msgstr ""
+
+#: framework/vc-addon/functions.php:681
+msgid "Social Snapchat outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:682
+msgid "Social Tumblr"
+msgstr ""
+
+#: framework/vc-addon/functions.php:683
+msgid "Social Tumblr Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:684
+msgid "Social Tux"
+msgstr ""
+
+#: framework/vc-addon/functions.php:685
+msgid "Social Twitch"
+msgstr ""
+
+#: framework/vc-addon/functions.php:686
+msgid "Social Twitch Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:687
+msgid "Social Twitter"
+msgstr ""
+
+#: framework/vc-addon/functions.php:688
+msgid "Social Twitter Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:689
+msgid "Social USD"
+msgstr ""
+
+#: framework/vc-addon/functions.php:690
+msgid "Social USD Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:691
+msgid "Social Vimeo"
+msgstr ""
+
+#: framework/vc-addon/functions.php:692
+msgid "Social Vimeo Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:693
+msgid "Social Whatsapp"
+msgstr ""
+
+#: framework/vc-addon/functions.php:694
+msgid "Social Whatsapp Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:695
+msgid "Social Windows"
+msgstr ""
+
+#: framework/vc-addon/functions.php:696
+msgid "Social Windows Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:697
+msgid "Social Wordpress"
+msgstr ""
+
+#: framework/vc-addon/functions.php:698
+msgid "Social Wordpress Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:699
+msgid "Social Yahoo"
+msgstr ""
+
+#: framework/vc-addon/functions.php:700
+msgid "Social Yahoo Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:701
+msgid "Social Yen"
+msgstr ""
+
+#: framework/vc-addon/functions.php:702
+msgid "Social Yen Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:703
+msgid "Social Youtube"
+msgstr ""
+
+#: framework/vc-addon/functions.php:704
+msgid "Social Youtube Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:705
+msgid "Soup Can"
+msgstr ""
+
+#: framework/vc-addon/functions.php:706
+msgid "Soup Can Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:707
+msgid "Speakerphone"
+msgstr ""
+
+#: framework/vc-addon/functions.php:708
+msgid "Speedometer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:709
+msgid "Spoon "
+msgstr ""
+
+#: framework/vc-addon/functions.php:710
+msgid "Star"
+msgstr ""
+
+#: framework/vc-addon/functions.php:711
+msgid "Stats Bars"
+msgstr ""
+
+#: framework/vc-addon/functions.php:712
+msgid "Steam"
+msgstr ""
+
+#: framework/vc-addon/functions.php:713
+msgid "Stop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:714
+msgid "Thermometer"
+msgstr ""
+
+#: framework/vc-addon/functions.php:715
+msgid "Thumbsdown"
+msgstr ""
+
+#: framework/vc-addon/functions.php:716
+msgid "Thumbsup"
+msgstr ""
+
+#: framework/vc-addon/functions.php:717
+msgid "Toggle"
+msgstr ""
+
+#: framework/vc-addon/functions.php:718
+msgid "Toggle Filled"
+msgstr ""
+
+#: framework/vc-addon/functions.php:719
+msgid "Transgender"
+msgstr ""
+
+#: framework/vc-addon/functions.php:720
+msgid "Trash A"
+msgstr ""
+
+#: framework/vc-addon/functions.php:721
+msgid "Trash B"
+msgstr ""
+
+#: framework/vc-addon/functions.php:722
+msgid "Trophy"
+msgstr ""
+
+#: framework/vc-addon/functions.php:723
+msgid "Tshirt"
+msgstr ""
+
+#: framework/vc-addon/functions.php:724
+msgid "Tshirt Outline"
+msgstr ""
+
+#: framework/vc-addon/functions.php:725
+msgid "Umbrella"
+msgstr ""
+
+#: framework/vc-addon/functions.php:726
+msgid "University"
+msgstr ""
+
+#: framework/vc-addon/functions.php:727
+msgid "Unlocked"
+msgstr ""
+
+#: framework/vc-addon/functions.php:728
+msgid "Upload"
+msgstr ""
+
+#: framework/vc-addon/functions.php:729
+msgid "USB"
+msgstr ""
+
+#: framework/vc-addon/functions.php:730
+msgid "Videocamera"
+msgstr ""
+
+#: framework/vc-addon/functions.php:731
+msgid "Volume High"
+msgstr ""
+
+#: framework/vc-addon/functions.php:732
+msgid "Volume Low"
+msgstr ""
+
+#: framework/vc-addon/functions.php:733
+msgid "Volume Medium"
+msgstr ""
+
+#: framework/vc-addon/functions.php:734
+msgid "Volume Mute"
+msgstr ""
+
+#: framework/vc-addon/functions.php:735
+msgid "Wand"
+msgstr ""
+
+#: framework/vc-addon/functions.php:736
+msgid "Waterdrop"
+msgstr ""
+
+#: framework/vc-addon/functions.php:737
+msgid "Wifi"
+msgstr ""
+
+#: framework/vc-addon/functions.php:738
+msgid "Wineglass"
+msgstr ""
+
+#: framework/vc-addon/functions.php:739
+msgid "Woman"
+msgstr ""
+
+#: framework/vc-addon/functions.php:740
+msgid "Wrench"
+msgstr ""
+
+#: framework/vc-addon/functions.php:741
+msgid "Xbox"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:151
+msgid "Show off your contact data"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:158
+msgid "Address Block Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:162
+msgid "List"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:165
+msgid "Specify address block style."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:169
+msgid "Show icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:174
+msgid "Show icon on heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:178
+msgid "Use Icon Background"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:187
+msgid "Show background in icon."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:191
+msgid "Align Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:194
+#: framework/vc-addon/shortcodes/button.php:122
+#: framework/vc-addon/shortcodes/button.php:165
+#: framework/vc-addon/shortcodes/call_to_action.php:152
+#: framework/vc-addon/shortcodes/portfolio_grid.php:292
+#: framework/vc-addon/shortcodes/special_heading.php:101
+#: framework/vc-addon/shortcodes/team_member.php:232
+msgid "Left"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:195
+#: framework/vc-addon/shortcodes/button.php:124
+#: framework/vc-addon/shortcodes/call_to_action.php:153
+#: framework/vc-addon/shortcodes/portfolio_grid.php:293
+#: framework/vc-addon/shortcodes/portfolio_grid.php:354
+#: framework/vc-addon/shortcodes/special_heading.php:102
+#: framework/vc-addon/shortcodes/team_member.php:231
+msgid "Center"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:201
+msgid "Alignment of Icons."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:205
+msgid "Use Light Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:214
+msgid "Check for light text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:218
+msgid "Address Title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:222
+#: framework/vc-addon/shortcodes/address_block.php:230
+#: framework/vc-addon/shortcodes/address_block.php:238
+#: framework/vc-addon/shortcodes/address_block.php:246
+#: framework/vc-addon/shortcodes/address_block.php:254
+#: framework/vc-addon/shortcodes/address_block.php:262
+msgid "Address Details"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:226
+msgid "Address"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:234
+msgid "Phone Number title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:242
+msgid "Phone Number"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:250
+msgid "Email title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:258
+msgid "E-mail"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/address_block.php:302
+#: framework/vc-addon/shortcodes/button.php:266
+msgid "Animation Effect for Address block."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:150
+msgid "A animated icon box."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:170
+msgid "Disable Animation"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:175
+msgid "Check if you want to disable animation."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:179
+msgid "Show Border"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:184
+msgid "Check if you need border around the box."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:188
+msgid "Border Color"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:194
+msgid "Hide title on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:203
+msgid "Check if you want to hide the title on hover animation."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:207
+msgid "Use Custom Color for Title on idle"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:214
+msgid "Use Custom Color for Title on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:225
+msgid "Use Custom Color for Description"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:233
+#: framework/vc-addon/shortcodes/counter.php:209
+#: framework/vc-addon/shortcodes/icon_box.php:294
+#: framework/vc-addon/shortcodes/video_modal.php:143
+msgid "Use Theme Color for Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:239
+msgid "Check it to Apply theme color to icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:243
+#: framework/vc-addon/shortcodes/counter.php:223
+#: framework/vc-addon/shortcodes/icon_box.php:304
+#: framework/vc-addon/shortcodes/video_modal.php:152
+msgid "Use Custom Color for Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:254
+msgid "Use Custom Color for Background on idle"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:261
+msgid "Use Custom Color for Background on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:272
+#: framework/vc-addon/shortcodes/button.php:172
+#: framework/vc-addon/shortcodes/call_to_action.php:215
+#: framework/vc-addon/shortcodes/counter.php:235
+#: framework/vc-addon/shortcodes/featured_img_box.php:177
+#: framework/vc-addon/shortcodes/icon_box.php:316
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:113
+msgid "Icon library"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:274
+#: framework/vc-addon/shortcodes/button.php:174
+#: framework/vc-addon/shortcodes/call_to_action.php:217
+#: framework/vc-addon/shortcodes/counter.php:237
+#: framework/vc-addon/shortcodes/featured_img_box.php:179
+#: framework/vc-addon/shortcodes/icon_box.php:318
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:115
+msgid "Ion Icons"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:275
+#: framework/vc-addon/shortcodes/button.php:175
+#: framework/vc-addon/shortcodes/call_to_action.php:218
+#: framework/vc-addon/shortcodes/counter.php:238
+#: framework/vc-addon/shortcodes/featured_img_box.php:180
+#: framework/vc-addon/shortcodes/icon_box.php:319
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:116
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:278
+#: framework/vc-addon/shortcodes/button.php:178
+#: framework/vc-addon/shortcodes/call_to_action.php:221
+#: framework/vc-addon/shortcodes/counter.php:245
+#: framework/vc-addon/shortcodes/featured_img_box.php:187
+#: framework/vc-addon/shortcodes/icon_box.php:322
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:119
+msgid "Select icon library."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:279
+#: framework/vc-addon/shortcodes/animated_icon_box.php:283
+#: framework/vc-addon/shortcodes/animated_icon_box.php:297
+#: framework/vc-addon/shortcodes/animated_icon_box.php:301
+#: framework/vc-addon/shortcodes/animated_icon_box.php:314
+#: framework/vc-addon/shortcodes/button.php:168
+#: framework/vc-addon/shortcodes/button.php:179
+#: framework/vc-addon/shortcodes/button.php:183
+#: framework/vc-addon/shortcodes/button.php:197
+#: framework/vc-addon/shortcodes/button.php:201
+#: framework/vc-addon/shortcodes/button.php:214
+#: framework/vc-addon/shortcodes/call_to_action.php:226
+#: framework/vc-addon/shortcodes/call_to_action.php:230
+#: framework/vc-addon/shortcodes/call_to_action.php:244
+#: framework/vc-addon/shortcodes/call_to_action.php:248
+#: framework/vc-addon/shortcodes/call_to_action.php:261
+#: framework/vc-addon/shortcodes/counter.php:125
+#: framework/vc-addon/shortcodes/counter.php:219
+#: framework/vc-addon/shortcodes/counter.php:231
+#: framework/vc-addon/shortcodes/counter.php:246
+#: framework/vc-addon/shortcodes/counter.php:250
+#: framework/vc-addon/shortcodes/counter.php:264
+#: framework/vc-addon/shortcodes/counter.php:268
+#: framework/vc-addon/shortcodes/counter.php:281
+#: framework/vc-addon/shortcodes/featured_img_box.php:188
+#: framework/vc-addon/shortcodes/featured_img_box.php:192
+#: framework/vc-addon/shortcodes/featured_img_box.php:206
+#: framework/vc-addon/shortcodes/featured_img_box.php:210
+#: framework/vc-addon/shortcodes/featured_img_box.php:223
+#: framework/vc-addon/shortcodes/icon_box.php:300
+#: framework/vc-addon/shortcodes/icon_box.php:312
+#: framework/vc-addon/shortcodes/icon_box.php:323
+#: framework/vc-addon/shortcodes/icon_box.php:327
+#: framework/vc-addon/shortcodes/icon_box.php:341
+#: framework/vc-addon/shortcodes/icon_box.php:345
+#: framework/vc-addon/shortcodes/icon_box.php:358
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:120
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:124
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:138
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:142
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:155
+msgid "Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/animated_icon_box.php:296
+#: framework/vc-addon/shortcodes/animated_icon_box.php:313
+#: framework/vc-addon/shortcodes/button.php:196
+#: framework/vc-addon/shortcodes/button.php:213
+#: framework/vc-addon/shortcodes/call_to_action.php:243
+#: framework/vc-addon/shortcodes/call_to_action.php:260
+#: framework/vc-addon/shortcodes/counter.php:263
+#: framework/vc-addon/shortcodes/counter.php:280
+#: framework/vc-addon/shortcodes/featured_img_box.php:205
+#: framework/vc-addon/shortcodes/featured_img_box.php:222
+#: framework/vc-addon/shortcodes/icon_box.php:340
+#: framework/vc-addon/shortcodes/icon_box.php:357
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:137
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:154
+msgid "Select icon from library."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:152
+msgid "ALL POST"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:163
+msgid "No Post Found, Please Add Post."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:185
+msgid "Recent blog posts grid"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:192
+msgid "Post style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:195
+msgid "Box with shadow"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:196
+msgid "Box with border"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:198
+msgid "Blog post style."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:202
+msgid "Select Categories"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:205
+msgid ""
+"Choose the category above, If you want to display posts from specific "
+"categories."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:209
+msgid "Order Type"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:210
+msgid "Designates the ascending or descending order"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:219
+msgid "Order By"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:220
+msgid "Choose type of order"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:232
+msgid "Show Excerpt"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:237
+msgid "Show Excerpt."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:241
+msgid "Show Label"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:246
+msgid "Show post format labels."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:250
+msgid "Show All Post Button"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/blog_grid.php:255
+msgid "Show All Post Button."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:98
+msgid "Add Button"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:105
+#: framework/vc-addon/shortcodes/call_to_action.php:291
+#: framework/vc-addon/shortcodes/call_to_action.php:342
+#: framework/vc-addon/shortcodes/pricing_box.php:183
+msgid "Button Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:108
+#: framework/vc-addon/shortcodes/call_to_action.php:294
+#: framework/vc-addon/shortcodes/call_to_action.php:345
+#: framework/vc-addon/shortcodes/portfolio_grid.php:339
+#: framework/vc-addon/shortcodes/pricing_box.php:187
+msgid "Solid"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:109
+#: framework/vc-addon/shortcodes/call_to_action.php:295
+#: framework/vc-addon/shortcodes/call_to_action.php:346
+#: framework/vc-addon/shortcodes/pricing_box.php:188
+msgid "Black Bordered / Theme Color on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:110
+#: framework/vc-addon/shortcodes/call_to_action.php:296
+#: framework/vc-addon/shortcodes/call_to_action.php:347
+#: framework/vc-addon/shortcodes/pricing_box.php:189
+msgid "White Bordered / Theme Color on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:111
+#: framework/vc-addon/shortcodes/call_to_action.php:297
+#: framework/vc-addon/shortcodes/call_to_action.php:348
+#: framework/vc-addon/shortcodes/pricing_box.php:190
+msgid "Black Bordered / Button Color on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:112
+#: framework/vc-addon/shortcodes/call_to_action.php:298
+#: framework/vc-addon/shortcodes/call_to_action.php:349
+#: framework/vc-addon/shortcodes/pricing_box.php:191
+msgid "White Bordered / Button Color on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:113
+#: framework/vc-addon/shortcodes/call_to_action.php:299
+#: framework/vc-addon/shortcodes/call_to_action.php:350
+#: framework/vc-addon/shortcodes/pricing_box.php:192
+msgid "Black Bordered / Opacity effect on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:114
+#: framework/vc-addon/shortcodes/call_to_action.php:300
+#: framework/vc-addon/shortcodes/call_to_action.php:351
+#: framework/vc-addon/shortcodes/pricing_box.php:193
+msgid "White Bordered / Opacity effect on hover"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:119
+msgid "Button: Alignment"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:123
+#: framework/vc-addon/shortcodes/button.php:166
+#: framework/vc-addon/shortcodes/portfolio_grid.php:353
+msgid "Right"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:129
+msgid "Button: Size"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:132
+#: framework/vc-addon/shortcodes/call_to_action.php:142
+#: framework/vc-addon/shortcodes/portfolio_grid.php:338
+#: framework/vc-addon/shortcodes/special_heading.php:131
+#: framework/vc-addon/shortcodes/special_heading.php:166
+msgid "Normal"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:133
+msgid "Large"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:138
+#: framework/vc-addon/shortcodes/call_to_action.php:265
+#: framework/vc-addon/shortcodes/call_to_action.php:316
+msgid "Button: Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:144
+#: framework/vc-addon/shortcodes/call_to_action.php:272
+#: framework/vc-addon/shortcodes/call_to_action.php:323
+msgid "Button: URL"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:150
+#: framework/vc-addon/shortcodes/call_to_action.php:279
+#: framework/vc-addon/shortcodes/call_to_action.php:330
+msgid "Button: Link Target"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:154
+#: framework/vc-addon/shortcodes/call_to_action.php:283
+#: framework/vc-addon/shortcodes/call_to_action.php:334
+msgid "Scroll to Section"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:155
+#: framework/vc-addon/shortcodes/call_to_action.php:284
+#: framework/vc-addon/shortcodes/call_to_action.php:335
+msgid "Self"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:156
+#: framework/vc-addon/shortcodes/call_to_action.php:285
+#: framework/vc-addon/shortcodes/call_to_action.php:336
+msgid "New Page"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/button.php:161
+msgid "Place Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:131
+msgid "Call to Action"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:132
+msgid "Call to action."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:139
+msgid "Type"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:143
+msgid "Classic"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:145
+msgid "Call to action type."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:149
+msgid "Align"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:155
+msgid "Only one button can be used with left alignment."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:165
+msgid "Enter call to action heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:171
+msgid "Enter call to action sub heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:175
+#: framework/vc-addon/shortcodes/call_to_action.php:189
+msgid "Action List"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:184
+msgid ""
+"Enter your call to action list. You can use a UL list as shown by default "
+"but anything would really work!"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:193
+msgid "Use Light Color"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:198
+msgid "Use light color for Call to action."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:202
+msgid "Use Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:211
+msgid "Use icon before call out text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:268
+#: framework/vc-addon/shortcodes/call_to_action.php:275
+#: framework/vc-addon/shortcodes/call_to_action.php:287
+#: framework/vc-addon/shortcodes/call_to_action.php:303
+#: framework/vc-addon/shortcodes/call_to_action.php:312
+msgid "Button 1"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:307
+msgid "Use Large Button"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/call_to_action.php:319
+#: framework/vc-addon/shortcodes/call_to_action.php:326
+#: framework/vc-addon/shortcodes/call_to_action.php:338
+#: framework/vc-addon/shortcodes/call_to_action.php:354
+msgid "Button 2"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:92
+msgid "Client Logo"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:93
+msgid "Client logo slider."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:101
+msgid "Attach Images"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:103
+msgid "Select your images."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:107
+#: framework/vc-addon/shortcodes/testimonial_slider.php:216
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:269
+msgid "Auto Play"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:115
+#: framework/vc-addon/shortcodes/testimonial_slider.php:225
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:278
+msgid "Slideshow speed"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:117
+msgid "Choose slideshow speed (in milliseconds). Default is 1000."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:126
+#: framework/vc-addon/shortcodes/testimonial_slider.php:237
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:290
+msgid "Infinite Loop"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:138
+#: framework/vc-addon/shortcodes/testimonial_slider.php:250
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:303
+msgid "Pause slideshow"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:139
+#: framework/vc-addon/shortcodes/testimonial_slider.php:251
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:304
+msgid "Pause slideshow when you hover over slide image"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:152
+msgid "Desktop : Items To Display"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:155
+#: framework/vc-addon/shortcodes/client_logo_slider.php:162
+#: framework/vc-addon/shortcodes/client_logo_slider.php:169
+#: framework/vc-addon/shortcodes/client_logo_slider.php:176
+msgid "Responsive Slider"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:159
+msgid "Tablet (768px-659px): Items To Display"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:166
+msgid "Mobile Landscape (480px-767px): Items To Display"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:173
+msgid "Mobile Portrait (0-479px): Items To Display"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/client_logo_slider.php:216
+msgid "Animation Effect for client."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:114
+msgid "Animated counter"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:121
+msgid "Counter Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:126
+#: framework/vc-addon/shortcodes/portfolio_grid.php:340
+msgid "Outlined"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:128
+msgid "Choose Counter style."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:133
+msgid "Count Numbers From"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:140
+msgid "Count Numbers To"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:152
+msgid "Enter Title for counter type box."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:156
+msgid "Caption"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:159
+msgid "Your caption displays below the numbers."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:164
+msgid "Use Theme Color for Numbers"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:166
+msgid "Check it to Apply theme color to Numbers."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:173
+msgid "Use Custom Color for Numbers"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:175
+msgid "Choose Color for Numbers."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:184
+msgid "Separator Background Color"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:191
+msgid "Seperator background color should be same as row background color."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:195
+msgid "Speed"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:198
+msgid "The number of milliseconds it should take to finish counting."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:202
+msgid "Refresh Interval"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:205
+msgid "The number of milliseconds to wait between refreshing the counter."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:218
+#: framework/vc-addon/shortcodes/video_modal.php:148
+msgid "Check it to Apply theme color to Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/counter.php:230
+#: framework/vc-addon/shortcodes/video_modal.php:155
+msgid "Choose Color for Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:119
+msgid "Add featured image box with content."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:127
+msgid "Image Box Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:131
+msgid "Image Box"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:132
+msgid "Image Box with Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:133
+msgid "Image Box with hover effect"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:148
+#: framework/vc-addon/shortcodes/icon_box.php:285
+msgid "Don't forget to change this dummy text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/featured_img_box.php:155
+msgid "Attached Featured Image."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:206
+msgid "A icon content box."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:214
+msgid "Icon Box Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:218
+msgid "Boxed Top Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:219
+msgid "Boxed Left Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:220
+msgid "Left Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:221
+msgid "Top Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:222
+msgid "Right Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:223
+msgid "Left Bordered Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:224
+msgid "Center Bordered Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:225
+msgid "Right Bordered Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:226
+msgid "Left Rounded Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:227
+msgid "Center Rounded Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:228
+msgid "Right Rounded Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:229
+msgid "Dual Boxed Left Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:230
+msgid "Dual Boxed Offset Left Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:231
+msgid "Left Icon Slant Left"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:232
+msgid "Left Icon Slant Right"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:233
+msgid "Right Icon Slant Left"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:234
+msgid "Right Icon Slant Right"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:235
+msgid "Center Icon Slant Left"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:236
+msgid "Center Icon Slant Right"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:245
+msgid "Enter Title."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:249
+#: framework/vc-addon/shortcodes/portfolio_grid.php:280
+msgid "Use Theme Color for Title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:254
+msgid "Check it to Apply theme color to title ."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:259
+#: framework/vc-addon/shortcodes/video_modal.php:136
+msgid "Use Custom Color for Title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:265
+msgid "Choose Color for title ."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:269
+msgid "Use Separator"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:278
+msgid "Use separator between Title and Description."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:289
+msgid "Description Custom Color"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:299
+msgid "Check it to Apply theme color to icon."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/icon_box.php:311
+msgid "Choose Color for icon."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:43
+msgid "All"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:220
+msgid "No portfolio added, Please add from admin."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:233
+msgid "Portfolio Grid"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:234
+msgid "Recent portfolio posts grid."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:241
+msgid "Grid Column"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:245
+msgid "2 Column"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:246
+msgid "3 Column"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:247
+msgid "4 column"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:249
+msgid "Set how many portfolio items would you like to show in one row."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:254
+msgid "Number of Items"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:257
+msgid "Set how many portfolio items would you like to include in the grid."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:261
+msgid "Title Caption"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:264
+msgid "pushTop"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:265
+msgid "revealBottom"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:266
+msgid "moveRight"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:267
+msgid "overlayBottomPush"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:268
+msgid "overlayBottom"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:269
+msgid "overlayBottomReveal"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:270
+msgid "overlayBottomAlong"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:271
+msgid "overlayRightAlong"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:272
+msgid "minimal"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:274
+msgid "zoom"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:276
+msgid "Portfolio Item Title Caption."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:285
+msgid " Check it to Apply theme color to title."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:289
+msgid "Text Align"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:295
+msgid "Portfolio Item Title align."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:299
+msgid "Order"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:302
+msgid "Asc"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:303
+msgid "Desc"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:308
+msgid "Horizontal Space"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:311
+msgid "Horizontal space between portfolio items, Example 40."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:312
+#: framework/vc-addon/shortcodes/portfolio_grid.php:320
+msgid "Spacing"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:316
+msgid "Vertical Space"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:319
+msgid "Vertical space between portfolio items, Example 40."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:324
+msgid "Show Category Filter"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:330
+msgid "Check to filter portfolio items by categories."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:331
+#: framework/vc-addon/shortcodes/portfolio_grid.php:346
+#: framework/vc-addon/shortcodes/portfolio_grid.php:360
+#: framework/vc-addon/shortcodes/portfolio_grid.php:374
+#: framework/vc-addon/shortcodes/portfolio_grid.php:409
+msgid "Filter"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:335
+msgid "Filter Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:350
+msgid "Filter Align"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:364
+msgid "Filter Counter"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:369
+msgid "Check to show count of items in filter categories."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:381
+msgid "fadeOut"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:382
+msgid "quicksand"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:383
+msgid "bounceLeft"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:384
+msgid "bounceTop"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:385
+msgid "bounceBottom"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:386
+msgid "moveLeft"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:387
+msgid "slideLeft"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:388
+msgid "fadeOutTop"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:389
+msgid "sequentially"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:390
+msgid "skew"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:391
+msgid "slideDelay"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:392
+msgid "3dFlip"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:393
+msgid "rotateSides"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:394
+msgid "flipOutDelay"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:395
+msgid "flipOut"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:396
+msgid "unfold"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:397
+msgid "foldLeft"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:398
+msgid "scaleDown"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:399
+msgid "scaleSides"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:400
+msgid "frontRow"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:401
+msgid "flipBottom"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:402
+msgid "rotateRoom"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/portfolio_grid.php:404
+msgid ""
+"Animation for filtering of portfolio items based on categories selected."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:96
+msgid "Pricing Box"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:97
+msgid "Insert a pricing column"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:104
+msgid "Pricing Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:108
+msgid "Modern"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:109
+msgid "Basic"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:124
+msgid "Pricing value"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:131
+msgid "Currency Symbol"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:138
+msgid "Pricing Tenure text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:139
+msgid "Smaller text e.g. some additional info or period: daily, monthly etc."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:145
+msgid "Pricing Text Color"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:146
+msgid "Choose Color for Value, Currency and Tenure text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:151
+msgid "Popular"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:160
+msgid "Popular text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:170
+msgid "Custom button url"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:171
+msgid "For example: http://www.themeforest.net"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:177
+msgid "Button text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:198
+#: framework/vc-addon/shortcodes/pricing_box.php:208
+msgid "Features"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/pricing_box.php:207
+msgid ""
+"Enter your pricing content. You can use a UL list as shown by default but "
+"anything would really work!"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:98
+msgid "Heading Alignment"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:104
+msgid "You can choose the heading alignment."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:108
+msgid "Use Upper Heading"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:113
+msgid "Check if you want upper heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:117
+msgid "Upper Heading"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:124
+msgid "Enter the text for upper heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:128
+msgid "Upper Heading Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:132
+#: framework/vc-addon/shortcodes/special_heading.php:167
+msgid "Bordered"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:133
+msgid "Has Line"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:139
+msgid "Choose the style for upper heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:143
+msgid "Use Theme Color for Upper Heading"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:152
+msgid "Choose Color for upper heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:159
+msgid "Enter the text for Heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:163
+msgid "Heading Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:168
+msgid "With Background Color"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:170
+msgid "Choose heading style."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:174
+msgid "Heading Separator"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:178
+msgid "Single Dash"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:179
+msgid "Double Dash"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:180
+msgid "Triple Dash"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:186
+msgid "Choose the separator style for heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:190
+msgid "Use Light Heading"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/special_heading.php:195
+msgid "Check for white color heading and upper heading."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:197
+msgid "Team Member"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:198
+msgid "Add Team member"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:205
+msgid "Member Name"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:209
+msgid "Enter the name of team member"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:213
+msgid "Member Position"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:217
+msgid "Enter the position of team member."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:221
+msgid "Avatar"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:224
+msgid "Select the image of the team member."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:228
+msgid "Text Alignment"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:234
+msgid "Choose the text alignment."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:238
+msgid "Use Dark Text Background"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:243
+msgid "Check for dark background and white text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:247
+msgid "Use Push Up Animation"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:256
+msgid "Check for push up animation."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:260
+msgid "Show Modal Popup"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:265
+msgid "Check to show more member details in modal popup."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:272
+msgid "Member Description."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:280
+msgid "Progress Bar Heading"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:283
+msgid "Enter the heading above the progress bar."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:293
+msgid "Enter data for progress bar."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:328
+msgid "Check it to Apply theme color to progress bar."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:332
+msgid "Use Custom Color for Progress Bar"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:338
+msgid "Choose Color for progress bar."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:343
+msgid "Use Custom Color for Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:345
+msgid "Choose Color for progress bar text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:352
+msgid "Show social icons only in modal popup"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:357
+msgid "By default social icons are shown."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:362
+msgid "Facebook Url"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:365
+msgid "Facebook Url to contact."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:370
+msgid "Twitter Url"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:373
+msgid "Twitter Url to contact."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:378
+msgid "Linkedin"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:381
+msgid "Linkedin Url to contact."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:386
+msgid "Google Plus"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:389
+msgid "Google plus Url to contact."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/team_member.php:430
+msgid "Animation Effect for team member."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:132
+msgid "Testimonials Slider"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:133
+msgid "Add testimonials slider"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:141
+msgid "Testimonial Slider Style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:145
+msgid "Center aligned with image"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:146
+msgid "Center aligned without image"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:147
+msgid "Left aligned with image"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:148
+msgid "Left aligned without image"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:153
+msgid "Testimonial Heading"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:162
+msgid "Slider Content"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:164
+msgid "Enter Testimonial Data."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:185
+msgid "Author Name"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:191
+msgid "Author company/position"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:197
+msgid "Tetimonial Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:203
+msgid "Author Image"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:210
+msgid "Attached Author Image."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:221
+#: framework/vc-addon/shortcodes/testimonial_slider.php:233
+#: framework/vc-addon/shortcodes/testimonial_slider.php:246
+#: framework/vc-addon/shortcodes/testimonial_slider.php:260
+#: framework/vc-addon/shortcodes/testimonial_slider.php:270
+#: framework/vc-addon/shortcodes/testimonial_slider.php:284
+#: framework/vc-addon/shortcodes/testimonial_slider.php:296
+#: framework/vc-addon/shortcodes/testimonial_slider.php:310
+#: framework/vc-addon/shortcodes/testimonial_slider.php:322
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:231
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:243
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:253
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:265
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:274
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:286
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:299
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:313
+msgid "Slider Settings"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:227
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:280
+msgid "Choose slideshow speed (in milliseconds)"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:264
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:225
+msgid "Show Pagination"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:265
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:226
+msgid "Choose to show slider pagination"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:274
+msgid "Pagination style"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:277
+msgid "Square Dot"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:278
+msgid "Circle Dot"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:288
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:235
+msgid "Pagination speed"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:290
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:237
+msgid "Choose pagination speed (in milliseconds)"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:300
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:247
+msgid "Show Navigation"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:301
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:248
+msgid "Choose to show slider navigation"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:314
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:257
+msgid "Navigation speed"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/testimonial_slider.php:316
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:259
+msgid "Choose navigation speed (in milliseconds)"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:137
+msgid ""
+"Please set your Twitter account and your Twitter API Key in Theme Options! "
+"Thank You For Purchasing Engage!"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:147
+msgid ""
+"Twitter Slider will not work on local server! Thank You For Purchasing "
+"Engage!"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:162
+msgid " days ago"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:163
+msgid " hours ago"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:164
+msgid " minutes ago"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:165
+msgid " seconds ago"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:173
+msgid "Twitter Feeds Slider"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:174
+msgid "Recent twitter_feeds slider"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:182
+msgid "Twitter Id"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:184
+msgid "Enter the twitter id to fetch the tweets."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:189
+msgid "Tweets Count"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:191
+msgid "Number of tweets to fetch."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:196
+msgid "Use Theme Color for Twitter Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:201
+msgid "Check it to Apply theme color to twitter icon."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:205
+msgid "Use Custom Color for Twitter Icon"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:212
+msgid "Choose Color for twitter icon."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:216
+msgid "Use Dark Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/twitter_feeds_slider.php:221
+msgid "Check for black color tweet text."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:115
+msgid "Video Modal"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:116
+msgid "Add Video Modal Popup"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:126
+msgid "URL link to the video.Video will be open in modal popup."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:132
+msgid "Enter Title for Video."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:139
+msgid "Choose Color for Title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:159
+msgid "Use Theme Color for Icon Background"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:161
+msgid "Check it to Apply theme color to Icon Background."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:168
+msgid "Use Custom Color for Icon Background"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:170
+msgid "Choose Color for Icon Background."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:184
+msgid "If checked, color will be used in background, will drop image selection"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/video_modal.php:204
+msgid "If checked, image will be used in background."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:63
+msgid "Mailchimp Form"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:64
+msgid "Mailchimp subscription form"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:73
+msgid "Mailchimp Form Action"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:77
+msgid "Enter the MailChimp form action URL."
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:84
+msgid "Enter subscribe form title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:91
+msgid "Enter subscribe form sub title"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:95
+msgid "Placeholder Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:98
+msgid "Enter your email"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:102
+msgid "Submit Button Text"
+msgstr ""
+
+#: framework/vc-addon/shortcodes/widget_subscribe_form.php:104
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: functions.php:65
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:273
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: functions.php:275
+msgid ""
+"Widgets in this area are used in the default sidebar. This sidebar will be "
+"used for your standard blog posts."
+msgstr ""
+
+#: single.php:48
+msgid "Older"
+msgstr ""
+
+#: single.php:49
+msgid "Newer"
+msgstr ""
+
+#: template-parts/blog-banner.php:20
+msgid "READ POST"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:18
+msgid "All posts by"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:21
+msgid "Category"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:24
+msgid "Tag"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:27
+msgid "Search Results"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:32
+msgid "Daily Archives"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:34
+msgid "Monthly Archives"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:36
+msgid "Yearly Archives"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:38
+msgid "Archives"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:63
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: template-parts/blog-search-banner.php:65
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/menu.php:128
+msgid "Make your menu at Appearance => Menus "
+msgstr ""
+
+#: template-parts/meta.php:4
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/meta.php:4
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/meta.php:4
+msgid "% Comments"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Engage"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.golothemes.com/engage"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Creative One Page Wordpress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "golothemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://golothemes.com/"
+msgstr ""
